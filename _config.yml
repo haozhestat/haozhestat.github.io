@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Haozhe Zhang"
 title_separator          : "-"
-name                     : &name "Haozhe"
+name                     : &name "Haozhe Zhang"
 description              : &description "Data Scientist & Statistician"
 url                      : https://haozhestat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   github           : "haozhestat"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zhang.haozhe"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/haozhe-zhang-data"
   orcid            : 

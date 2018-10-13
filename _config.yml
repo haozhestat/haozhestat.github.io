@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   github           : "haozhestat"
   google_plus      :
   keybase          :
-  instagram        : "zhang.haozhe"
+  instagram        : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/haozhe-zhang-data"
   orcid            : 
@@ -105,7 +105,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "HaozheZhang2"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

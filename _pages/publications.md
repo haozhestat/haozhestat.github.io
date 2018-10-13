@@ -15,8 +15,8 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
 
-<b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://lantaoyu.com/publications/DADM)</b><br>
-<b>Lantao Yu\*</b>, Xuejian Wang\*(equal contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
+<b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
+Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, Song Xi Chen. <i>Proceedings of the Royal Society A, 471(2182), 2015.</i> 
 
 ## Multi-Agent Systems & Computational Sustainability
 

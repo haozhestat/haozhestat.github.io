@@ -1,4 +1,4 @@
-[Welcome to my homepage!](https://haozhestat.github.io/)
+[Welcome to Haozhe's homepage!](https://haozhestat.github.io/)
 
 
 <!--

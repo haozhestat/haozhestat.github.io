@@ -5,6 +5,11 @@ var addressPoints = [
     127.8274833
   ],
   [
+    "Taipei City",
+    25.016913, 
+    121.539237
+  ],
+  [
     "Berkeley CA, USA",
     37.8708393,
     -122.2728638

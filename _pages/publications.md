@@ -7,7 +7,7 @@ author_profile: true
 <b>Haozhe Zhang</b>, and Yehua Li. <i> Submitted to *The Annals of Statistics*.</i>
 
 <b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
-Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang <b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> Revision Submitted to Molecular Plant.</i>
+Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> Revision Submitted to Molecular Plant.</i>
 
 <b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman. <i> Tentatively accepted by The American Statistician</i>.
@@ -15,7 +15,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang <b>, Chengsong Zhu, Sher
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
 
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
+<b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://lantaoyu.com/publications/DADM)</b><br>
 <b>Lantao Yu\*</b>, Xuejian Wang\*(equal contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
 ## Multi-Agent Systems & Computational Sustainability

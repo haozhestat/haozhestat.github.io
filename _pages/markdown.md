@@ -7,11 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and 
-[Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). 
-[[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
-* I received my Bachelor’s Degree in Statistics from [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC). 
-* My research lies on functional/longitudinal data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
+* Reviewer for *Statistica Sinicia*.
+*International Student Advisory Board, Iowa State University, 2018.
+*Computation Advisory Committe, Department of Statistics, Iowa State University, 2017.
+*President of the Iowa STAT-ers, 2017--18.
+*Treasurer of the Iowa STAT-ers, 2016--17.
+*Graduate and Professional Student Senate,	Iowa State University, 2015--16.
+*Student Assistant, Office of International Affairs, University of Science and Technology of China, 2013--14.
 
 <!--
 ## Locations of key files/directories

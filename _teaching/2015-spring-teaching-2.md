@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Fall 2017"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/Fall17
+venue: "Department of Statistics"
+date: 2017-08-22
+location: "Ames, IA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* STAT 101 : Principle of Statistics
+  * Duties: Teach lab sessions and grade students' regular homework and exams
+  * Supervisor: Prof. Kevin Kasper

@@ -9,5 +9,5 @@ location: "Ames, IA"
 ---
 
 * STAT 326 : Introductory Business Statistics II
-  * Duties: Teach lab sessions and grade students' regular homework and exams
+  * Duties: Teach lab sessions and grade students' homework and exams
   * Supervisor: Dr. Anna Peterson 

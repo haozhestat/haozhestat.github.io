@@ -19,7 +19,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
 
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
-Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
+Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
 
 <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://climateinformatics.org/?q=node/83)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
@@ -30,6 +30,6 @@ Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Hua
   Proceedings of the Royal Society A, 471(2182), 2015.</i> 
 
 <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b><br>
-<b>Haozhe Zhang</b>, and Robert Sinclair. <i>Ecological Complexity, 22:32-35, 2015.</i>
+<b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
 
 

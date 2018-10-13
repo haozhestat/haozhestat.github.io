@@ -12,7 +12,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
   Revision Submitted to Molecular Plant.</i>
 
 <b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
-<b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman. <i> Tentatively accepted by The American Statistician</i>.
+<b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> <i> Tentatively accepted by The American Statistician</i>.
 
 <b>[Regression-Enhanced Random Forests](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/AbstractDetails.cfm?abstractid=325116)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>

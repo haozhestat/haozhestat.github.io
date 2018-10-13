@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction]()</b> <br>
-<b>Haozhe Zhang</b>, and Yehua Li. <i> Submitted to *The Annals of Statistics*.</i>
+<b>Haozhe Zhang</b>, and Yehua Li. <br>
+<i> Submitted to *The Annals of Statistics*.</i>
 
 <b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>

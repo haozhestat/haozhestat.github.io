@@ -2,10 +2,10 @@
 permalink: /publications/
 author_profile: true
 ---
-## Refereed Publications
+## Publications
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+<b> Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction</b> <br>
+<b>Haozhe Zhang</b>, and Yehua Li. <i>In submission to *The Annals of Statistics*.</i>
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>

@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 * Reviewer for *Statistica Sinicia*.
-* International Student Advisory Board, Iowa State University, 2018-19.
-* Computation Advisory Committe, Department of Statistics, Iowa State University, 2017--18.
-* President of the Iowa STAT-ers, 2017--18.
+* *International Student Advisory Board*, Iowa State University, 2018-19.
+* *Computation Advisory Committe*, Department of Statistics, Iowa State University, 2017--18.
+* *President* of the Iowa STAT-ers, 2017--18.
 * Treasurer of the Iowa STAT-ers, 2016--17.
 * Graduate and Professional Student Senate,	Iowa State University, 2015--16.
 * Student Assistant, Office of International Affairs, University of Science and Technology of China, 2013--14.

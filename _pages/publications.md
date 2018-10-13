@@ -9,8 +9,8 @@ author_profile: true
 <b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang <b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> Revision Submitted to Molecular Plant.</i>
 
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
+<b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
+<b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman. <i> Tentatively accepted by The American Statistician</i>.
 
 <b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
 Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>

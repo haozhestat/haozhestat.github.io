@@ -18,7 +18,7 @@ redirect_from:
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). 
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
 * I received my Bachelor’s Degree from School of the Gifted Young at [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC). 
-* My research interests lie in the general areas of functional data analysis, machine learning, and interdisciplinary quantitative research. I am particularly interested in developing statistical theory and methodology for spatially dependent functional data, and the problems of diagnostics and uncertainty quantification for ensemble machine learning algorithms.
+* My research focuses on functional/logitudinal data analysis, interpretation and uncertainty quantification of machine learning algorithms, predictive analytics, and interdisciplinary quantitative research. 
 
 # Recent News
 * July 17, 2018. I will serve as a PC member for the 33rd AAAI Conference on Artificial Intelligence (AAAI-19).

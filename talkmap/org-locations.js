@@ -5,7 +5,7 @@ var addressPoints = [
     127.8274833
   ],
   [
-    "Taipei",
+    "Taipei City",
     25.016913, 
     121.539237
    ],
@@ -14,6 +14,11 @@ var addressPoints = [
     31.8353865,
     117.2683812
    ],
+  [
+    "Beijing, China",
+     40.02373,
+    116.0818811
+  ]
   [
     "Vancouver, Canada",
     49.2577143,
@@ -24,5 +29,7 @@ var addressPoints = [
     42.028635, 
     -93.649571
   ]
+  
+ 
   
 ];

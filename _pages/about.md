@@ -18,7 +18,7 @@ redirect_from:
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). 
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
 * I received my Bachelor’s Degree from School of the Gifted Young at [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC). 
-* My research focuses on functional/logitudinal data analysis, interpretation and uncertainty quantification of machine learning algorithms, predictive analytics, and interdisciplinary quantitative research. 
+* My research focuses on functional/longitudinal data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, and quantitative research in interdisciplinary areas. 
 
 # Recent News
 * From Fall 2018, I am actively looking for full-time positions that start in the Summer of 2019. 

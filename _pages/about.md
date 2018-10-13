@@ -21,7 +21,7 @@ redirect_from:
 * My research lies on functional/longitudinal data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
 
 # Recent News
-* From Fall 2018, I am actively looking for a full-time position that starts in 2019. 
+* From fall 2018, I start to actively look for a full-time position that starts in 2019. 
 * August 25, 2018. A paper titled "Random Forest Prediction Interval" was tentatively accepted by *[The American Statistician](https://www.tandfonline.com/toc/utas20/current)*.
 * July 28 - August 2, 2018. I attended and gave an oral talk at the *[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215660)* in Vancouver, Canada.
 * May 21, 2018. I started to work as a data scientist intern at [eBay advertising](https://www.ebay.com/) for the next three months.

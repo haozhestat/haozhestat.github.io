@@ -9,5 +9,5 @@ location: "Ames, IA"
 ---
 
 * STAT 101 : Principle of Statistics
-  * Duties: Teach lab sessions and grade students' regular homework and exams
+  * Duties: Teach lab sessions and grade students' homework
   * Supervisor: Prof. Kevin Kasper

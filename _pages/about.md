@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
-
+* I am a Ph.D. student in [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), advised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). 
 * I am a Ph.D student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
 * I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
 * My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.

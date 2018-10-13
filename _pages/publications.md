@@ -1,15 +1,13 @@
 ---
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Publications
+<b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction]()</b> <br>
+<b>Haozhe Zhang</b>, and Yehua Li. <i> Submitted to *The Annals of Statistics*.</i>
 
-<b> Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction</b> <br>
-<b>Haozhe Zhang</b>, and Yehua Li. <i>In submission to *The Annals of Statistics*.</i>
-
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+<b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
+Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>Revision Submitted to Molecular Plant.</i>
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.

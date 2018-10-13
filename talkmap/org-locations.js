@@ -18,7 +18,7 @@ var addressPoints = [
     "Beijing, China",
      40.02373,
     116.0818811
-  ]
+  ],
   [
     "Vancouver, Canada",
     49.2577143,
@@ -28,6 +28,16 @@ var addressPoints = [
     "San Diego, CA"
     32.8242404,
     -117.3891672
+    ],
+  [
+    "Boulder, CO",
+    40.0292888,
+    -105.3100174
+    ],
+  [
+    "Lincoln, NE",
+    40.8201966,
+    -96.702665
     ],
   [
     "Ames, IA",

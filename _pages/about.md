@@ -13,10 +13,10 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
-* I am a Ph.D. Candidate in [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), advised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
+* I am a Ph.D. Candidate in [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), advised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and [Prof. Yehua Li]
+(https://sites.google.com/a/ucr.edu/yehuali/home). [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
+* My research interests lie in the general areas of functional data analysis, statistical machine learning, and interdisciplinary quantitative research. particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
 * I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
-* My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
-
 
 # Recent News
 * July 17, 2018. I will serve as a PC member for the 33rd AAAI Conference on Artificial Intelligence (AAAI-19).

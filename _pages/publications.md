@@ -1,10 +1,8 @@
 ---
-title: ""
 permalink: /publications/
 author_profile: true
 ---
-
-## Deep Learning
+## Refereed Publications
 
 <b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>

@@ -28,6 +28,7 @@ var addressPoints = [
     "San Diego, CA"
     32.8242404,
     -117.3891672
+    ],
   [
     "Ames, IA",
     42.028635, 

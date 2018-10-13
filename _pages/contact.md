@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+
+Department of Statistics, Iowa State University
+3219 Snedecor Hall, 2438 Osborn Dr., Ames, IA 50011, U.S.A.
+Email: haozhe [at] iastate.edu

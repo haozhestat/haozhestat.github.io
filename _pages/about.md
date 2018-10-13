@@ -14,7 +14,7 @@ redirect_from:
 </p>
 -->
 
-* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), advised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and 
+* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and 
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). 
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC). 
@@ -22,7 +22,7 @@ redirect_from:
 
 # Recent News
 * From Fall 2018, I am actively looking for full-time positions that start in the Summer of 2019. 
-* 
+* July 28 - August 2, 2018. I attended and gave an oral talk at the *Joint Statistical Meetings* in Vancouver, Canada.
 * July 17, 2018. I will serve as a PC member for the 33rd AAAI Conference on Artificial Intelligence (AAAI-19).
 * April 12, 2018. New preprint: "CoT: Cooperative Training for Generative Modeling", a new paradigm for training tractable density generative model that is parallel to adversarial training. Available on [arXiv](https://arxiv.org/abs/1804.03782).
 * November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.

@@ -22,8 +22,8 @@ redirect_from:
 
 # Recent News
 * From Fall 2018, I am actively looking for a full-time position that starts in 2019. 
-* August 25, 2018. A paper titled "Random Forest Prediction Interval" was tentatively accepted by *The American Statistician*.
-* July 28 - August 2, 2018. I attended and gave an oral talk at the *Joint Statistical Meetings* in Vancouver, Canada.
+* August 25, 2018. A paper titled "Random Forest Prediction Interval" was tentatively accepted by *[The American Statistician](https://www.tandfonline.com/toc/utas20/current)*.
+* July 28 - August 2, 2018. I attended and gave an oral talk at the *[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215660)* in Vancouver, Canada.
 * May 21, 2018. I started to work as a data scientist intern at [eBay advertising](https://www.ebay.com/) for the next three months.
 * May 16, 2018. I received the *SAMSI Travel Award* for presenting at the *[Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2018/)* in Reston, Virginia. 
 * May 7, 2018. I presented a poster at the *[Conference on Predictive Inference and Its Applications](https://predictiveinference.github.io/)* in Ames, IA.

@@ -7,7 +7,7 @@ author_profile: true
 <b>Haozhe Zhang</b>, and Yehua Li. <i> Submitted to *The Annals of Statistics*.</i>
 
 <b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>Revision Submitted to Molecular Plant.</i>
+Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang <b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> Revision Submitted to Molecular Plant.</i>
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.

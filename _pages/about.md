@@ -14,7 +14,7 @@ redirect_from:
 </p>
 -->
 
-* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io/cv.pdf) and 
+* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io) and 
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). 
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC). 

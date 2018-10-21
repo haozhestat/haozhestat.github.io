@@ -29,5 +29,5 @@ redirect_from:
 * May 16, 2018. I received the *SAMSI Travel Award* for presenting at the *[Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2018/)* in Reston, Virginia. 
 * May 7, 2018. I presented a poster at the *[Conference on Predictive Inference and Its Applications](https://predictiveinference.github.io/)* in Ames, IA.
 * April 21 - April 28, 2018. I visited the Department of Statistics at University of California, Riverside.
-* March 24 - March 27, 2018. I attended the [ENAR Spring Meetings](https://www.enar.org/meetings/spring2018/index.cfm) in Atlanta, Georgia.
+* March 24 - March 27, 2018. I attended the [ENAR Spring Meetings](https://www.enar.org/meetings/spring2018) in Atlanta, Georgia.
 * May, 2017. I was elected as the President of the [Iowa STAT-ers](https://www.stuorg.iastate.edu/site/stat-ers) for 2017-18.

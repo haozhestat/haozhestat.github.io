@@ -16,3 +16,4 @@ author_profile: true
 * **Outstanding Student Scholarship (Top 5%)**, School of the Gifted Young, University of Science and Technology of China, 2012.
 * **National Encouragement Scholarship**, School of the Gifted Young, University of Science and Technology of China, 2011.
 * **Outstanding Freshman Scholarship**, School of the Gifted Young, University of Science and Technology of China, 2010.
+

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Haozhe Zhang"
-description              : &description "personal description"
+description              : &description "Data Scientist"
 url                      : https://haozhestat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haozhestat/haozhestat.github.io"
@@ -75,13 +75,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-127413704-1"
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Haozhe Zhang"
+  avatar           : "Haozhe_Photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :

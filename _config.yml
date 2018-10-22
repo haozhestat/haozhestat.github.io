@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haozhe Zhang"
   avatar           : "Haozhe_Photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Data Scientist & Statistician, Ph.D. Candidate in Statistics at Iowa State University"
+  location         : "Ames, IA, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "haozhe.stat@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "haozhestat"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "haozhe-zhang-data"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

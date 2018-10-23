@@ -23,7 +23,7 @@ Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42
 
 <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://climateinformatics.org/?q=node/83)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
-  InProceedings of the Sixth International Workshop on Climate Informatics, 2016.</i>
+  In Proceedings of the Sixth International Workshop on Climate Informatics, 2016.</i>
 
 <b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>

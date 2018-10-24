@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haozhe Zhang"
 description              : &description "Data Scientist"

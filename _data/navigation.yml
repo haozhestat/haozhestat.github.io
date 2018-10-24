@@ -15,12 +15,12 @@ main:
     
   - title: "Awards"
     url: /awards/
-        
-  # - title: "Blogs"
-  #  url: /year-archive/
   
   - title: "Service"
     url: /markdown/
+  
+  - title: "Photos"
+    url: /year-archive/
     
   - title: "Contact"
     url: /contact/  

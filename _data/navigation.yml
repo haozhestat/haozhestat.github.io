@@ -22,8 +22,8 @@ main:
   - title: "Photos"
     url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/  
+  #- title: "Contact"
+  #  url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/

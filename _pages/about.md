@@ -31,3 +31,8 @@ redirect_from:
 * April 21 - April 28, 2018. I visited the Department of Statistics at University of California, Riverside.
 * March 24 - March 27, 2018. I attended the [ENAR Spring Meetings](https://www.enar.org/meetings/spring2018) in Atlanta, Georgia.  
 * May, 2017. I was elected as the President of the [Iowa STAT-ers](https://www.stuorg.iastate.edu/site/stat-ers) for 2017-18.
+
+# Contact
+Department of Statistics, Iowa State University<br>
+Snedecor 3219, 2438 Osborn Dr., Ames, IA 50011, U.S.A.<br>
+Email: haozhe [at] iastate.edu

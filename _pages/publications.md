@@ -9,7 +9,7 @@ author_profile: true
 
 <b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>
-  Revision Submitted to Molecular Plant.</i>
+Minor Revision Invited by Molecular Plant. </i>
 
 <b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> <i> Tentatively accepted by The American Statistician</i>.

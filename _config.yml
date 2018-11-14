@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "Read more" # if enabled, adds "Read more" links to excerpts
+read_more                : true #"Read more" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haozhe Zhang"
   avatar           : "Haozhe_Photo.jpg"
-  bio              : "Data Scientist & Statistician, Ph.D. Candidate in Statistics at Iowa State University"
+  bio              : "Data Scientist, Ph.D. Candidate in Statistics at Iowa State University"
   location         : "Ames, IA"
   employer         :
   googlescholar    : 

@@ -21,6 +21,9 @@ redirect_from:
 * My research lies on functional/longitudinal data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
 
 # Recent News
+* November 20, 2018. Our research work about [Constructing a Graph from User Implicit Feedback
+](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) was accepted by 2019 SIAM Conference on Computational Science and Engineering.
+* December 6-7, 2018. I will visit School of Mathematics and Statistics at the University of Melbourne and give a talk on spatially dependent functional data
 * From fall 2018, I begin to actively look for a full-time position that starts in 2019. 
 * August 25, 2018. A paper titled "Random Forest Prediction Interval" was tentatively accepted by *[The American Statistician](https://www.tandfonline.com/toc/utas20/current)*.
 * 2018 -- 2019. I serve on the [International Student Advisory Board](https://www.committees.iastate.edu/comm-info.php?id=163), Iowa State University.

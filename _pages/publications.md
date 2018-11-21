@@ -14,6 +14,10 @@ author_profile: true
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>
 Minor Revision invited by Molecular Plant. </i>
 
+<b>[ Constructing a Graph from User Implicit Feedback]()</b> <br>
+ <b> Haozhe Zhang </b>, Yan Qu, and Shad Kirmani. <i> <br>
+Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). (Refereed Abstract) </i>
+
 <b>[Regression-Enhanced Random Forests](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/AbstractDetails.cfm?abstractid=325116)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>

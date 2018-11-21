@@ -21,12 +21,12 @@ redirect_from:
 * My research lies on functional/longitudinal data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
 
 # Recent News
-* November 20, 2018. Our research work about [Constructing a Graph from User Implicit Feedback
-](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) was accepted by 2019 SIAM Conference on Computational Science and Engineering.
-* December 6-7, 2018. I will visit School of Mathematics and Statistics at the University of Melbourne and give a talk on spatially dependent functional data
+* Our research work about [Constructing a Graph from User Implicit Feedback
+](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) was accepted by the SIAM Conference on Computational Science and Engineering (CSE19) held in Spokane, WA on February 25 - March 1, 2019.
+* December 6-7, 2018. I will visit School of Mathematics and Statistics at the University of Melbourne and give a talk on spatially dependent functional data.
 * From fall 2018, I begin to actively look for a full-time position that starts in 2019. 
 * August 25, 2018. A paper titled "Random Forest Prediction Interval" was tentatively accepted by *[The American Statistician](https://www.tandfonline.com/toc/utas20/current)*.
-* 2018 -- 2019. I serve on the [International Student Advisory Board](https://www.committees.iastate.edu/comm-info.php?id=163), Iowa State University.
+* 2018 - 2019. I serve on the [International Student Advisory Board](https://www.committees.iastate.edu/comm-info.php?id=163), Iowa State University.
 * July 28 - August 2, 2018. I attended and gave an oral talk at the *[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215660)* in Vancouver, Canada.
 * May 21, 2018. I started to work as a data scientist intern at [eBay advertising](https://www.ebay.com/) for the next three months.
 * May 16, 2018. I received the *SAMSI Travel Award* for presenting at the *[Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2018/)* in Reston, Virginia. 

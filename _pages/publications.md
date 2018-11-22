@@ -15,7 +15,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 Minor Revision invited by Molecular Plant. </i>
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
- <b> Haozhe Zhang </b>, Yan Qu, and Shad Kirmani. <i> <br>
+ <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
 Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). (Refereed Abstract) </i>
 
 <b>[Regression-Enhanced Random Forests](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/AbstractDetails.cfm?abstractid=325116)</b><br>

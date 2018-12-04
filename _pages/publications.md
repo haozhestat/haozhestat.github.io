@@ -18,7 +18,7 @@ Minor Revision invited by Molecular Plant. </i>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
 Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). (Refereed Abstract) </i>
 
-<b>[Regression-Enhanced Random Forests](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/AbstractDetails.cfm?abstractid=325116)</b><br>
+<b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
 

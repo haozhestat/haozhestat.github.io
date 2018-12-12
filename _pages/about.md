@@ -25,7 +25,6 @@ redirect_from:
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) was accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
 * December 13, 2018. I will give a presentation in Department of Mathematics and Statistics at the University of New Hampshire in Durham, NH.
 * December 5-8, 2018. I visited School of Mathematics and Statistics at the University of Melbourne and gave a talk on spatially dependent functional data.
-<!-- * From fall 2018, I begin to actively look for a full-time position that starts in 2019. -->
 * August 25, 2018. A paper titled "Random Forest Prediction Interval" was tentatively accepted by *[The American Statistician](https://www.tandfonline.com/toc/utas20/current)*.
 * 2018 - 2019. I serve on the [International Student Advisory Board](https://www.committees.iastate.edu/comm-info.php?id=163), Iowa State University.
 * July 28 - August 2, 2018. I attended and gave an oral talk at the *[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215660)* in Vancouver, Canada.

@@ -12,11 +12,11 @@ author_profile: true
 
 <b>[Optimal Designs for Genomic Prediction in Hybrid Crops]()</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>
-Minor Revision invited by Molecular Plant. </i>
+ Accepted by Molecular Plant. </i>
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
-Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). (Refereed Abstract) </i>
+Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). </i>
 
 <b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>

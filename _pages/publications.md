@@ -5,7 +5,7 @@ author_profile: true
 ---
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction]()</b> <br>
 <b>Haozhe Zhang</b>, and Yehua Li. <br>
-<i> Submitted to *The Annals of Statistics*.</i>
+<i> Under Review by *The Annals of Statistics*.</i>
 
 <b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> <i> Tentatively accepted by The American Statistician</i>.

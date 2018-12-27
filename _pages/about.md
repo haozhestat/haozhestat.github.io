@@ -22,6 +22,7 @@ redirect_from:
 
 # Recent News
 * January 10, 2019. I will give a 30-min talk at Facebook Headquarter in Menlo Park, CA.
+* December 24, 2018. Our paper titled "Optimal Designs for Genomic Prediction in Hybrid Crops" was accepted by *[Molecular Plant](https://www.cell.com/molecular-plant/home)*.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) was accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
 * December 13, 2018. I gave a presentation in Department of Mathematics and Statistics at the University of New Hampshire in Durham, NH.

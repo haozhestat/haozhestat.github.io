@@ -39,4 +39,4 @@ Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Hua
 ## Working Papers
 
 <b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
-Joint work with Decai Liang,  Hui Huang, and Xiaohui Chang
+Joint work with <b>Decai Liang,  Hui Huang, and Xiaohui Chang</b>

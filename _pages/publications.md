@@ -37,3 +37,6 @@ Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Hua
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
 
 ## Working Papers
+
+<b>A Spatial Functional Mixture Model for China PM$_{2.5}$</b><br>
+Joint work with Decai Liang,  Hui Huang, and Xiaohui Chang

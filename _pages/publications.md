@@ -39,7 +39,13 @@ Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Hua
 ## Working Papers
 
 <b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
-Joint work with <b>Decai Liang,  Hui Huang, </b> and <b> Xiaohui Chang</b>
+Joint work with Decai Liang,  Hui Huang, and Xiaohui Chang.
 
 <b>[Functional Modeling of Plant Growth Data Annotated by Amazon Mechanical Turk Workers]()</b><br>
-Joint work with <b>Dan Nettleton, Stefan Hey, </b> and <b> Zaki Jubery</b>
+Joint work with Dan Nettleton, Stefan Hey, and Zaki Jubery.
+
+<b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>
+Joint work with Yehua Li.
+
+<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales]()</b><br>
+Joint work with Eric J. Gangloff, Vianey Leos, and Anne Bronikowski.

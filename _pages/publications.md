@@ -36,4 +36,4 @@ Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Hua
 <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b><br>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
 
-
+# Working Papers

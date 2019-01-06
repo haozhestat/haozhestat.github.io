@@ -10,7 +10,7 @@ author_profile: true
 <b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> <i> Tentatively accepted by The American Statistician</i>.
 
-<b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.cell.com/molecular-plant/home)</b> <br>
+<b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30002-4)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>
 Accepted by Molecular Plant. </i>
 

@@ -25,7 +25,7 @@ Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
 
-<b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://climateinformatics.org/?q=node/83)</b><br>
+<b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
 In Proceedings of the Sixth International Workshop on Climate Informatics, 2016.</i>
 

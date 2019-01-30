@@ -5,9 +5,9 @@ author_profile: true
 ---
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b>Haozhe Zhang</b>, and Yehua Li. <br>
-<i> Under Review by *The Annals of Statistics*.</i>
+<i> Submitted.</i>
 
-<b>[Random Forest Prediction Intervals](https://github.com/haozhestat/RFIntervals)</b> <br>
+<b>[Random Forest Prediction Intervals](https://github.com/haozhestat/rfinterval)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> <i> Tentatively accepted by The American Statistician</i>.
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.sciencedirect.com/science/article/pii/S1674205219300024)</b> <br>

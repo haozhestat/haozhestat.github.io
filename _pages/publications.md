@@ -42,10 +42,7 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i>
 
 ## Working Papers
 
-<b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
-Joint work with Decai Liang,  Hui Huang, and Xiaohui Chang.
-
-<b>[Functional Modeling of Plant Growth Data from Crowdsourcing Image Analysis](https://www.genomes2fields.org/)</b><br>
+<b>[Estimating Plant Growth Curves and Derivatives by Functional Modeling of Crowdsourcing Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 Joint work with Dan Nettleton, Stefan Hey, and Zaki Jubery.
 
 <b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>

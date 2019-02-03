@@ -10,5 +10,6 @@ author_profile: true
 * Some of [Andrew Gelman](http://www.stat.columbia.edu/~gelman/presentations/)'s Recent Presentations
 * [Giles Hooker](http://faculty.bscb.cornell.edu/~hooker/)'s Recent Papers
 * Hadley Wickham's book on building [R packages](http://r-pkgs.had.co.nz/)
+* Submission [deadlines](http://lucasmentch.com/links.html) of data science and machine learning conferences
 
 

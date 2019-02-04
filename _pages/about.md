@@ -21,6 +21,7 @@ redirect_from:
 * My research lies on functional data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
 
 # Recent News
+* I will join Microsoft as a Data & Applied Scientist in May 2019.
 * January 29, 2019. Our R package *[rfinterval](https://github.com/haozhestat/rfinterval)* has been released on github.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).

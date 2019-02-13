@@ -24,8 +24,7 @@ redirect_from:
 <!--
 * I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in May 2019.
 -->
-* February 12, 2019. A paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*.
-* January 29, 2019. Our R package *[rfinterval](https://github.com/haozhestat/rfinterval)* has been released on github.
+* February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://github.com/haozhestat/rfinterval)* is publicly available on github.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
 * January 10, 2019. I gave a 30-min talk at Facebook Headquarter in Menlo Park, CA.

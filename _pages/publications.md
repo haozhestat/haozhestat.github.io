@@ -11,7 +11,7 @@ author_profile: true
 Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang. <br>
 <i> Preprint.</i>
 
-<b>[Random Forest Prediction Intervals](https://github.com/haozhestat/rfinterval)</b> <br>
+<b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_rev.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
 <i> Accepted by The American Statistician</i>. 
 

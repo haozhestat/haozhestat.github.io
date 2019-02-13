@@ -13,7 +13,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang. <br>
 
 <b>[Random Forest Prediction Intervals](https://github.com/haozhestat/rfinterval)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
-<i> Accepted by The American Statistician</i>.
+<i> Accepted by The American Statistician</i>. 
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.sciencedirect.com/science/article/pii/S1674205219300024)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>

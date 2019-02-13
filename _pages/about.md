@@ -24,6 +24,7 @@ redirect_from:
 <!--
 * I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in May 2019.
 -->
+* February 12, 2019. A paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*.
 * January 29, 2019. Our R package *[rfinterval](https://github.com/haozhestat/rfinterval)* has been released on github.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
@@ -31,7 +32,6 @@ redirect_from:
 * December 24, 2018. Our paper titled "[Optimal Designs for Genomic Prediction in Hybrid Crops](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30002-4)" was accepted by *[Molecular Plant](https://www.cell.com/molecular-plant/home)*.
 * December 13, 2018. I gave a presentation in Department of Mathematics and Statistics at the University of New Hampshire in Durham, NH.
 * December 5-8, 2018. I visited School of Mathematics and Statistics at the University of Melbourne and gave a talk on spatially dependent functional data.
-* August 25, 2018. A paper titled "Random Forest Prediction Intervals" was tentatively accepted by *[The American Statistician](https://www.tandfonline.com/toc/utas20/current)*.
 * 2018 - 2019. I serve on the [International Student Advisory Board](https://www.committees.iastate.edu/comm-info.php?id=163), Iowa State University.
 * July 28 - August 2, 2018. I attended and gave an oral talk at the *[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215660)* in Vancouver, Canada.
 * May 21, 2018. I started to work as a data scientist intern at [eBay advertising](https://www.ebay.com/) for the next three months.

@@ -44,23 +44,23 @@ In Proceedings of the Sixth International Workshop on Climate Informatics, 117â€
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
 Proceedings of the Royal Society A, 471(2182), 2015.</i> 
 <br>
-\[[PDF](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
-\[[Dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
+\[[pdf](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
+\[[dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
 
 <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://songxichen.gsm.pku.edu.cn/Uploads/Files/Report/Air%20Quality%20Assessment%20Report_I_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
 Technical Report (in Chinese), 2015.</i> 
 <br>
-\[[PDF](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
-\[[Dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
-\[[News](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
+\[[pdf](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
+\[[dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
+\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
 <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b>
 <br>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
 <br>
-\[[PDF](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
-\[[News](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
+\[[pdf](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
+\[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
 
 

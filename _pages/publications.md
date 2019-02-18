@@ -39,7 +39,9 @@ In Proceedings of the Sixth International Workshop on Climate Informatics, 117â€
 <b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
 Proceedings of the Royal Society A, 471(2182), 2015.</i> 
-\[[Dataset](https://archive.ics.uci.edu/ml/index.php)\]
+<\br>
+\[[PDF](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
+\[[Dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
 
 <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://songxichen.gsm.pku.edu.cn/Uploads/Files/Report/Air%20Quality%20Assessment%20Report_I_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>

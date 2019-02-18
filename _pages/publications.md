@@ -28,9 +28,13 @@ Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19
 <b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
+ <br>
+ \[[pdf](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)\]
 
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
+<br>
+\[[pdf](https://www.sciencedirect.com/science/article/pii/S0272884215023135)\]
 
 <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>

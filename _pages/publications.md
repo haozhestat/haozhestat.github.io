@@ -4,16 +4,19 @@ permalink: /publications/
 author_profile: true
 ---
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
-<b>Haozhe Zhang</b>, and Yehua Li. <br> 
+<b> Haozhe Zhang</b>, and Yehua Li. <br> 
 <i> Submitted to The Annals of Statistics.</i>
 
 <b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang. <br>
 <i> Preprint.</i>
 
-<b>[Random Forest Prediction Intervals](https://github.com/haozhestat/rfinterval)</b> <br>
+<b>[Random Forest Prediction Intervals](https://www.tandfonline.com/toc/utas20/current)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
-To appear in <i> The American Statistician</i>. 
+ <i> Accepted by  The American Statistician</i>. 
+ <br>
+\[[pdf](https://www.tandfonline.com/toc/utas20/current)\]
+\[[R package](https://github.com/haozhestat/rfinterval)\]
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.sciencedirect.com/science/article/pii/S1674205219300024)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
@@ -27,7 +30,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
 Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). </i>
 <br>
-\[[pdf](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
+\[[talk](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
 
 <b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>

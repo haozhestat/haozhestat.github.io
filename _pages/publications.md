@@ -47,6 +47,7 @@ Technical Report (in Chinese), 2015.</i>
 <br>
 \[[PDF](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
 \[[Dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
+\[[News](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
 <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b>
 <br>

@@ -13,5 +13,6 @@ author_profile: true
 * Submission [deadlines](http://lucasmentch.com/links.html) of data science and machine learning conferences
 * Advanced Topics in Computational Models of Learning -- [Optimization for Learning](http://web.cs.iastate.edu/~jialiu/teaching/COMS672_F17/)
 * [Overleaf](https://www.overleaf.com) (Shared Latex)
+* Shuyi Zhang's [homepage](http://songxichen.gsm.pku.edu.cn/people/shuyizhang)
 
 

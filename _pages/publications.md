@@ -24,7 +24,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 <br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S1674205219300024)\]
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
-\[[News](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
+\[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>

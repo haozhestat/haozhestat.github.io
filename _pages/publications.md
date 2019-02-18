@@ -16,8 +16,10 @@ Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang. <br>
 To appear in <i> The American Statistician</i>. 
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.sciencedirect.com/science/article/pii/S1674205219300024)</b> <br>
-Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <i> <br>
-Accepted by Molecular Plant. </i> DOI:10.1016/j.molp.2018.12.022
+Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
+Accepted by  <i> Molecular Plant</i>. DOI:10.1016/j.molp.2018.12.022
+<br>
+\[[News](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>

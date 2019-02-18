@@ -19,11 +19,15 @@ To appear in <i> The American Statistician</i>.
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
  <i> Accepted by Molecular Plant. DOI:10.1016/j.molp.2018.12.022 </i>
 <br>
+\[[pdf](https://www.sciencedirect.com/science/article/pii/S1674205219300024)\]
+\[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[News](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
 Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). </i>
+<br>
+\[[pdf](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
 
 <b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>

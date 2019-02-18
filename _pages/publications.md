@@ -80,6 +80,9 @@ Technical Report (in Chinese), 2015.</i>
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 Joint work with Dan Nettleton, Stefan Hey, and Zaki Jubery, etc.
 
+<b>[Diagnosing Extrapolation in Test Data with Manifold Learning](https://www.genomes2fields.org/)</b><br>
+Joint work with Dan Nettleton
+
 <b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>
 Joint work with Yehua Li.
 

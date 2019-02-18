@@ -36,9 +36,9 @@ Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
 In Proceedings of the Sixth International Workshop on Climate Informatics, 117–120, 2016.</i>
 <br>
-\[[PDF](https://opensky.ucar.edu/islandora/object/technotes:543)\]
-\[[Slides](https://www2.cisl.ucar.edu/sites/default/files/CI_Slides_Zhang_Haozhe.pdf)\]
-\[[Video](https://www.youtube.com/watch?v=aYRBfoA15V8)\]
+\[[pdf](https://opensky.ucar.edu/islandora/object/technotes:543)\]
+\[[slides](https://www2.cisl.ucar.edu/sites/default/files/CI_Slides_Zhang_Haozhe.pdf)\]
+\[[video](https://www.youtube.com/watch?v=aYRBfoA15V8)\]
 
 <b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>

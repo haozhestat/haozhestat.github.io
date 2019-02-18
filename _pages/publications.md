@@ -42,7 +42,7 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i>
 <br>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
 <br>
-[\[PDF\]](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)
+\[[PDF](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
 
 
 ## Working Papers

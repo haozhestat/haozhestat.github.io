@@ -42,6 +42,7 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i>
 <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://songxichen.gsm.pku.edu.cn/Uploads/Files/Report/Air%20Quality%20Assessment%20Report_I_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
 Technical Report (in Chinese), 2015.</i> 
+<br>
 \[[PDF](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
 \[[Dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
 

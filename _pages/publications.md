@@ -81,7 +81,7 @@ Technical Report (in Chinese), 2015.</i>
 Joint work with Dan Nettleton, Stefan Hey, and Zaki Jubery, etc.
 
 <b>[Diagnosing Extrapolation in Test Data with Manifold Learning](https://www.genomes2fields.org/)</b><br>
-Joint work with Dan Nettleton
+Joint work with Dan Nettleton.
 
 <b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>
 Joint work with Yehua Li.

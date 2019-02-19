@@ -7,10 +7,6 @@ author_profile: true
 <b> Haozhe Zhang</b>, and Yehua Li. <br> 
 <i> Submitted to The Annals of Statistics.</i>
 
-<b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
-Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang. <br>
-<i> Preprint.</i>
-
 <b>[Random Forest Prediction Intervals](https://www.tandfonline.com/toc/utas20/current)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i> Accepted by The American Statistician</i>. 
@@ -76,6 +72,9 @@ Technical Report (in Chinese), 2015.</i>
 
 
 ## Working Papers
+
+<b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
+Joint work with Decai Liang, Hui Huang, and Xiaohui Chang.
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 Joint work with Dan Nettleton, Stefan Hey, and Zaki Jubery, etc.

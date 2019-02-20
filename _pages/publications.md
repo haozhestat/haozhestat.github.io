@@ -75,7 +75,8 @@ Technical Report (in Chinese), 2015.</i>
 
 <b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang.
-<i> Manuscript read for submission.</i>
+<br>
+<i> Manuscript ready for submission.</i>
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 Joint work with Dan Nettleton, Stefan Hey, and Zaki Jubery, etc.

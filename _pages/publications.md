@@ -12,7 +12,7 @@ author_profile: true
  <i> Accepted by The American Statistician</i>. 
  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
-\[[R package](https://github.com/haozhestat/rfinterval)\]
+\[[software](https://github.com/haozhestat/rfinterval)\]
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.sciencedirect.com/science/article/pii/S1674205219300024)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>

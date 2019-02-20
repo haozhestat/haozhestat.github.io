@@ -6,6 +6,8 @@ author_profile: true
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br> 
 <i> Submitted to The Annals of Statistics.</i>
+\[[code](https://github.com/haozhestat/spatialFDA)\]
+\[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
 <b>[Random Forest Prediction Intervals](https://www.tandfonline.com/toc/utas20/current)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 

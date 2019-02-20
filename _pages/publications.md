@@ -38,6 +38,7 @@ Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
 <br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0272884215023135)\]
+\[[dataset](http://haozhestat.github.io/files/Ceramics-Data.zip)\]
 
 <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>

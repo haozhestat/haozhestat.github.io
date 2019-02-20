@@ -78,13 +78,13 @@ Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang.
 <br>
 <i> Manuscript ready for submission.</i>
 
-<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
-Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
+<b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
+<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
 <br>
 <i> Manuscript in preparation.</i>
 
-<b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
+<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
+Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
 <br>
 <i> Manuscript in preparation.</i>
 

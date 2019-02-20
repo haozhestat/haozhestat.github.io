@@ -84,7 +84,7 @@ Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, an
 <i> Manuscript in preparation.</i>
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, and Zaki Jubery, etc.
+<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
 <br>
 <i> Manuscript in preparation.</i>
 

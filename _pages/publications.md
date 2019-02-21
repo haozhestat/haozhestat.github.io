@@ -14,10 +14,7 @@ author_profile: true
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i> Accepted by The American Statistician</i>. 
  <br>
- \[[pdf](https://www.tandfonline.com/toc/utas20/current)\]
- <!--
-\[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
---!>
+\[[pdf](https://www.tandfonline.com/toc/utas20/current)\]
 \[[software](https://github.com/haozhestat/rfinterval)\]
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](https://www.sciencedirect.com/science/article/pii/S1674205219300024)</b> <br>

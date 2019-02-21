@@ -71,8 +71,9 @@ Technical Report (in Chinese), 2015.</i>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
 <br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
-\[[code](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
-\[[dataset](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
+\[[code](http://haozhestat.github.io/files/matlab_Namibia.zip)\]
+\[[dataset](http://haozhestat.github.io/files/Data_Namibia.zip)\]
+\[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
 

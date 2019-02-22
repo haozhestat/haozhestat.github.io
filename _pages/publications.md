@@ -10,6 +10,12 @@ author_profile: true
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
+
+<b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
+Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang.
+<br>
+<i> Submitted to Journal of the American Statistical Association.</i>
+
 <b>[Random Forest Prediction Intervals](https://www.tandfonline.com/toc/utas20/current)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i> Accepted by The American Statistician</i>. 
@@ -79,11 +85,6 @@ Technical Report (in Chinese), 2015.</i>
 
 
 ## Working Papers
-
-<b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
-Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang.
-<br>
-<i> Manuscript ready for submission.</i>
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable

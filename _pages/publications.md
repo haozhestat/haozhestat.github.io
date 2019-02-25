@@ -89,7 +89,7 @@ Technical Report (in Chinese), 2015.</i>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
  <i> Manuscript in preparation.</i>
 <br>
-\[[talk](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
+\[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
 
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.

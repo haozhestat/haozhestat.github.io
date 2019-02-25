@@ -31,12 +31,6 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
-<b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
- <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
-Accepted by 2019 SIAM Conference on Computational Science and Engineering (CSE19). </i>
-<br>
-\[[talk](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
-
 <b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
@@ -90,6 +84,11 @@ Technical Report (in Chinese), 2015.</i>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
 <br>
 <i> Manuscript in preparation.</i>
+
+<b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
+ <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
+<br>
+\[[talk](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
 
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.

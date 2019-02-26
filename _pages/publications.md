@@ -87,9 +87,12 @@ Technical Report (in Chinese), 2015.</i>
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
+ Pre-print presented at SIAM CSE 2019.
+ <br>
  <i> Manuscript in preparation.</i>
 <br>
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
+ \[[slides](http://haozhestat.github.io/files/SIAM_CSE_2019_Presentation.pdf)\]
 
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.

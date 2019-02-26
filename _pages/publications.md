@@ -80,11 +80,6 @@ Technical Report (in Chinese), 2015.</i>
 
 ## Working Papers
 
-<b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
-<br>
-<i> Manuscript in preparation.</i>
-
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani. <i> <br>
  Pre-print presented at SIAM CSE 2019.
@@ -93,6 +88,11 @@ Technical Report (in Chinese), 2015.</i>
 <br>
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
  \[[slides](http://haozhestat.github.io/files/SIAM_CSE_2019_Presentation.pdf)\]
+
+<b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
+<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
+<br>
+<i> Manuscript in preparation.</i>
 
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.

@@ -82,7 +82,7 @@ Technical Report (in Chinese), 2015.</i>
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>
- Pre-print presented at SIAM CSE 2019.
+ Pre-print presented at SIAM Conference on Computational Science and Engineer
  <br>
  <i> Manuscript in preparation.</i>
 <br>

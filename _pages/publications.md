@@ -87,7 +87,7 @@ Technical Report (in Chinese), 2015.</i>
  <i> Manuscript in preparation.</i>
 <br>
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
- \[[slides](http://haozhestat.github.io/files/Item Recommendation_ Constructing a graph from user implicit feedback.pdf)\]
+ \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable

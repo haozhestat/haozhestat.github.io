@@ -13,5 +13,6 @@ author_profile: true
 * Advanced Topics in Computational Models of Learning -- [Optimization for Learning](http://web.cs.iastate.edu/~jialiu/teaching/COMS672_F17/)
 * [Overleaf](https://www.overleaf.com) (Shared Latex)
 * Shuyi Zhang's [homepage](http://songxichen.gsm.pku.edu.cn/people/shuyizhang)
+* [The Ph.D. Grind: A Ph.D. Student Memoir](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) by Dr. Philip Guo
 
 

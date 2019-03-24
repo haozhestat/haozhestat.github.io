@@ -12,7 +12,7 @@ author_profile: true
 
 
 <b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
-Decai Liang, <b>Haozhe Zhang</b>, Hui Huang, and Xiaohui Chang.
+Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
 <i> Submitted to Journal of the American Statistical Association.</i>
 

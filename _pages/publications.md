@@ -11,7 +11,7 @@ author_profile: true
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
 
-<b>[A Spatial Functional Mixture Model for China PM$_{2.5}$]()</b><br>
+<b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
 <i> Submitted to Journal of the American Statistical Association.</i>

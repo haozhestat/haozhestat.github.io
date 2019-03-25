@@ -27,7 +27,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
  <i> Accepted by Molecular Plant. DOI:10.1016/j.molp.2018.12.022 </i>
 <br>
-\[[pdf](https://www.sciencedirect.com/science/article/pii/S1674205219300024)\]
+\[[pdf](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)\]
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 

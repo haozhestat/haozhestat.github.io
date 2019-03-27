@@ -101,8 +101,10 @@ Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, an
 <br>
 <i> Manuscript in preparation.</i>
 
+<!--
 <b>[Diagnosing Extrapolation in Test Data with Manifold Learning]()</b><br>
 Joint work with Dan Nettleton.
+--!>
 
 <b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>
 Joint work with Yehua Li.

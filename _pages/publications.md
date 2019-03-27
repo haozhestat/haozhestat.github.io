@@ -14,7 +14,7 @@ author_profile: true
 <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
-<i> Preprint.</i>
+<i> Submitted to Journal of the American Statistical Association.</i>
 
 <b>[Random Forest Prediction Intervals](https://www.tandfonline.com/toc/utas20/current)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 

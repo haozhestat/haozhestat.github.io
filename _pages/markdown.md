@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 * Program Committee Member, Artificial Intelligence Track, [2019 Grace Hopper Celebration of Women in Computing](https://en.wikipedia.org/wiki/Grace_Hopper_Celebration_of_Women_in_Computing).
-* Reviewer for *Statistica Sinicia*, *Stat* and *PeerJ*.
+* Reviewer for *Statistica Sinicia*, *Stat*, and *PeerJ*.
 * International Student Advisory Board, Iowa State University, 2018-19.
 * Computation Advisory Committe, Department of Statistics, Iowa State University, 2017--18.
 * President of the Iowa STAT-ers, 2017--18.

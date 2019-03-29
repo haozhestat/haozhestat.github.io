@@ -97,7 +97,7 @@ Technical Report (in Chinese), 2015.</i>
  \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
  
 <b>[Change of precipitation regionalization over China during 1961-2010]()</b> <br>
-<b>Shuiqing Yin</b>, Haozhe Zhang, Decai Liang, Zhengyuan Zhu, and Deliang Chen.<br>
+Shuiqing Yin, <b>Haozhe Zhang</b>, Decai Liang, Zhengyuan Zhu, and Deliang Chen.<br>
  <i> Manuscript in preparation.</i>
 
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>

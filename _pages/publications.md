@@ -96,16 +96,17 @@ Technical Report (in Chinese), 2015.</i>
 <br>
 \[[abstract](http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
+<!--
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
 <br>
 <i> Manuscript in preparation.</i>
-
+-->
 <!--
 <b>[Diagnosing Extrapolation in Test Data with Manifold Learning]()</b><br>
 Joint work with Dan Nettleton.
 -->
-
+<!--
 <b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>
 Joint work with Yehua Li.
-
+-->

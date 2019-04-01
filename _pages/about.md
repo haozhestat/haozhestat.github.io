@@ -13,11 +13,10 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 * I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io) and 
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home). I worked at Liberty Mutual (2017) and eBay (2018) as summer intern. I will join Microsoft as a Data & Applied Scientist in May 2019.
-[[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf)
+[[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 * My research lies on functional data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
 

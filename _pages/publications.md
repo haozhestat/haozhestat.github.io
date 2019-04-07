@@ -20,7 +20,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i> Accepted by The American Statistician</i>. 
  <br>
-\[[pdf](https://www.tandfonline.com/toc/utas20/current)\]
+\[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://github.com/haozhestat/rfinterval)\]
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>

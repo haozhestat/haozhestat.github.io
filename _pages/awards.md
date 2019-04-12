@@ -3,7 +3,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-
+* **Student & Early Career Travel Award**, 2019. Travel fund for presenting an e-poster in the 2019 Symposium on Data Science and Statistics in Bellevue, Washington.
 * **SAMSI Travel Award**, 2018. Travel fund for presenting a paper in the Symposium on Data Science and Statistics in Reston, Virginia.
 * **Travel support from ASA Section for Statistical Programmers and Analysts**, 2017-18. 
 * **The George W. Snedecor Award**, Department of Statistics, Iowa State University, 2016. This award is for the most outstanding Ph.D. candidate in the department.

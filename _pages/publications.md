@@ -16,7 +16,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
 <i> Submitted to Journal of the American Statistical Association.</i>
 
-<b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
+<b>[Random Forest Prediction Intervals](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1585288)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i> Accepted by The American Statistician</i>. 
  <br>

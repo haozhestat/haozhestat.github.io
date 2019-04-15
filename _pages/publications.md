@@ -87,9 +87,11 @@ Technical Report (in Chinese), 2015.</i>
 <br>
 \[[abstract](http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
+<!--
 <b>[Change of precipitation regionalization over China during 1961-2010]()</b> <br>
 Shuiqing Yin, <b>Haozhe Zhang</b>, Decai Liang, Zhengyuan Zhu, and Deliang Chen.<br>
  <i> Manuscript in preparation.</i>
+-->
 
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>

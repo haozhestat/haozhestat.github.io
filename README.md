@@ -1,4 +1,6 @@
-[Welcome to Haozhe's homepage!](https://haozhestat.github.io/) [![HitCount](http://hits.dwyl.io/haozhestat/haozhestatgithubio.svg)](http://hits.dwyl.io/haozhestat/haozhestatgithubio)
+[Welcome to Haozhe's homepage!](https://haozhestat.github.io/) 
+
+[![HitCount](http://hits.dwyl.io/haozhestat/haozhestatgithubio.svg)](http://hits.dwyl.io/haozhestat/haozhestatgithubio)
 
 
 <!--

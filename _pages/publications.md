@@ -77,9 +77,9 @@ Technical Report (in Chinese), 2015.</i>
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
 
-
+<!--
 ## Working Papers
-
+<!--
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
 <br>
@@ -91,8 +91,8 @@ Technical Report (in Chinese), 2015.</i>
 <b>[Change of precipitation regionalization over China during 1961-2010]()</b> <br>
 Shuiqing Yin, <b>Haozhe Zhang</b>, Decai Liang, Zhengyuan Zhu, and Deliang Chen.<br>
  <i> Manuscript in preparation.</i>
--->
 
+<!--
 <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
  <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>
  Preprint presented at SIAM Conference on Computational Science and Engineering (CSE2019)
@@ -102,10 +102,12 @@ Shuiqing Yin, <b>Haozhe Zhang</b>, Decai Liang, Zhengyuan Zhu, and Deliang Chen.
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
  \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
 
+<!--
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
 <br>
 <i> Manuscript in preparation.</i>
+-->
 
 <!--
 <b>[Diagnosing Extrapolation in Test Data with Manifold Learning]()</b><br>

@@ -19,7 +19,7 @@ Submitted to <i> Journal of the American Statistical Association.</i>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
 <br>
 <i> Preprint.</i>
-\[[abstract](http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
+\[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
 
 <b>[Random Forest Prediction Intervals](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1585288)</b> <br>

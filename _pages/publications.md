@@ -24,9 +24,9 @@ Submitted to <i> Journal of the American Statistical Association.</i>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
 
-<b>[Random Forest Prediction Intervals](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1585288)</b> <br>
+<b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
- <i> Accepted by The American Statistician</i>. 
+ <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>. 
  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://github.com/haozhestat/rfinterval)\]

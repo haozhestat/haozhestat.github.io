@@ -5,7 +5,7 @@ author_profile: true
 ---
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br> 
-<i> Submitted to The Annals of Statistics.</i>
+Submitted to <i> The Annals of Statistics.</i>
 <br>
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
@@ -14,7 +14,7 @@ author_profile: true
 <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
-<i> Submitted to Journal of the American Statistical Association.</i>
+Submitted to <i> Journal of the American Statistical Association.</i>
 
 <b>[Random Forest Prediction Intervals](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1585288)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 

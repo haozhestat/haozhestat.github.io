@@ -15,6 +15,7 @@ Submitted to <i> The Annals of Statistics.</i>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
 Submitted to <i> Journal of the American Statistical Association.</i>
+<br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data]()</b><br>

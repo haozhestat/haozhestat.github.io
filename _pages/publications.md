@@ -4,7 +4,7 @@ author_profile: true
 ---
 <b> [Spatially Dependent Functional Data: Covariance Estimation, Principal Component Analysis, and Prediction](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br> 
-Submitted to <i> The Annals of Statistics.</i>
+Under Review by <i> The Annals of Statistics.</i>
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=328380)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
@@ -14,7 +14,7 @@ Submitted to <i> The Annals of Statistics.</i>
 <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
-Submitted to <i> Journal of the American Statistical Association.</i>
+Under Review by <i> Journal of the American Statistical Association.</i>
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
@@ -41,11 +41,11 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
-<b>[Regression-Enhanced Random Forests](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)</b><br>
+<b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
  <br>
- \[[pdf](http://haozhestat.github.io/files/manuscript_HAOZHE_ZHANG.pdf)\]
+ \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
 
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 

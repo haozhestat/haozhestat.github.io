@@ -20,8 +20,8 @@ redirect_from:
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 * My research lies on functional data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
 * Developers' lives matter. 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
-[![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
+[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
 <!--
 [![HitCount](http://hits.dwyl.io/haozhestat/haozhestatgithubio.svg)](http://hits.dwyl.io/haozhestat/haozhestatgithubio)
 -->

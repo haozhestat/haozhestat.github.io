@@ -22,7 +22,9 @@ redirect_from:
 * Developers' lives matter. 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 [![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
+<!--
 [![HitCount](http://hits.dwyl.io/haozhestat/haozhestatgithubio.svg)](http://hits.dwyl.io/haozhestat/haozhestatgithubio)
+-->
 
 # Recent News
 * I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in May 2019.

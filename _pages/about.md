@@ -25,7 +25,9 @@ redirect_from:
 [![HitCount](http://hits.dwyl.io/haozhestat/haozhestatgithubio.svg)](http://hits.dwyl.io/haozhestat/haozhestatgithubio)
 
 # Recent News
-* I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in May 2019.
+* I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in the Summer of 2019.
+* June 15, 2019. I will attend the ACM-IMS Interdisciplinary Summit on the Foundations of Data in San Francisco, CA.
+* May 30, 2019. I will give an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
 * February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://github.com/haozhestat/rfinterval)* is publicly available on github.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).

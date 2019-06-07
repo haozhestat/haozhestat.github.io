@@ -19,15 +19,11 @@ redirect_from:
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 * My research lies on functional data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
-* Developers' lives matter. 
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
-[![HitCount](http://hits.dwyl.io/haozhestat/haozhestatgithubio.svg)](http://hits.dwyl.io/haozhestat/haozhestatgithubio)
 
 # Recent News
 * I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in the Summer of 2019.
 * June 15, 2019. I will attend the ACM-IMS Interdisciplinary Summit on the Foundations of Data in San Francisco, CA.
-* May 30, 2019. I will give an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
+* May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
 * February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://github.com/haozhestat/rfinterval)* is publicly available on github.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).

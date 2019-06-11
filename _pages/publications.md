@@ -14,7 +14,7 @@ Under Review by <i> The Annals of Statistics.</i>
 <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
 <br>
-Under Review by <i> Journal of the American Statistical Association.</i>
+Major Revision Invited by <i> Journal of the American Statistical Association.</i>
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 

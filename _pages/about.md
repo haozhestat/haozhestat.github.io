@@ -18,7 +18,7 @@ redirect_from:
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home).
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
-* My research lies on functional data analysis, interpretation and diagnostics of machine learning algorithms, predictive analytics, data mining, and quantitative research in interdisciplinary areas. 
+* My research lies on interpretation, diagnostics, and predictive inference for machine learning algorithms, functional data analysis, applied data science, and quantitative research in interdisciplinary areas. 
 
 # Recent News
 * I will join [Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1%3aprimaryr5) as a Data & Applied Scientist in the Summer of 2019.

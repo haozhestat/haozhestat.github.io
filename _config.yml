@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Haozhe Zhang"
   avatar           : "Haozhe_Photo.jpg"
-  bio              : "Data & Applied Scientist, Ph.D. Candidate in Statistics"
-  location         : "Ames, IA"
+  bio              : "Data & Applied Scientist, Ph.D. in Statistics"
+  location         : "Redmond, WA"
   employer         :
   googlescholar    : # https://scholar.google.com/citations?user=xv0IjskAAAAJ&hl=en&oi=ao
   email            : "haozhe.stat@gmail.com"
@@ -97,7 +97,7 @@ author:
   github           : "haozhestat"
   google_plus      :
   keybase          :
-  instagram        : "zhang.haozhe"
+  instagram        : 
   lastfm           :
   linkedin         : "haozhe-zhang-data"
   orcid            : 

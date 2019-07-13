@@ -25,6 +25,11 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
+<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
+Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
+<br>
+<i> Manuscript in Preparation for Animal Behavior.</i>
+
 
 <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
@@ -112,12 +117,9 @@ Shuiqing Yin, <b>Haozhe Zhang</b>, Decai Liang, Zhengyuan Zhu, and Deliang Chen.
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
  \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
 
-<!--
-<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
-Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
-<br>
-<i> Manuscript in preparation.</i>
--->
+
+
+
 
 <!--
 <b>[Diagnosing Extrapolation in Test Data with Manifold Learning]()</b><br>

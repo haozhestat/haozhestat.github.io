@@ -30,6 +30,10 @@ Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, an
 <br>
 <i> Manuscript in Preparation for Animal Behavior.</i>
 
+<b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_ag_etd/)</b><br>
+<b>Haozhe Zhang</b>.
+<br>
+<i> Doctoral Dissertation. Iowa State University Digital Repository, 2019.</i>
 
 <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 

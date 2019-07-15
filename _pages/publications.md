@@ -35,7 +35,7 @@ Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, an
 <br>
 <i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019.</i>
 
-<b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
+<b>[Random Forest Prediction Intervals](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2019.1585288?journalCode=utas20#.XSzfM-hKi34)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>. 
  <br>
@@ -77,7 +77,7 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i>
 \[[pdf](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
 \[[dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
 
-<b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://songxichen.gsm.pku.edu.cn/Uploads/Files/Report/Air%20Quality%20Assessment%20Report_I_201503.pdf)</b><br>
+<b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
 Technical Report (in Chinese), 2015.</i> 
 <br>

@@ -13,7 +13,8 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
-
+* I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (advised by [Dan Nettleton](https://dnett.github.io) and 
+[Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home))
 * I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io) and 
 [Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home).
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 

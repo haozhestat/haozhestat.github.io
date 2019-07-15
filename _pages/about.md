@@ -20,7 +20,7 @@ redirect_from:
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 -->
 * I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
-[Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019 and B.S. in Statistics from the [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC) in 2014. I worked at OIST (2013), Liberty Mutual (2017) and eBay (2018) as summer intern.
+[Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019 and B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC) in 2014. I worked at OIST (2013), Liberty Mutual (2017) and eBay (2018) as summer intern.
 * My research lies on interpretation, diagnostics, and predictive inference for machine learning algorithms, functional data analysis, applied data science, and quantitative research in interdisciplinary areas. 
 
 # Recent News

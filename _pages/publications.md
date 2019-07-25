@@ -40,7 +40,7 @@ Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, an
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>. 
  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
-\[[software](hhttps://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\]
+\[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\]
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>

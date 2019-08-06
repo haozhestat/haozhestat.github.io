@@ -22,7 +22,7 @@ redirect_from:
 * I am currently a Data & Applied Scientist at [Microsoft Cloud AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
 * I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
 [Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019, and my B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC) in 2014. I worked at OIST (2013), Liberty Mutual (2017) and eBay (2018) as summer intern.
-* My research lies on interpretation, diagnostics, and inference for machine learning algorithms, functional data analysis, applied data science, and interdisciplinary quantitative research. 
+* My research lies on interpretation, diagnostics, and inference for machine learning algorithms, functional data analysis, online experimentation, applied data science, and interdisciplinary quantitative research. 
 
 # Recent News
 * June 15, 2019. I attended the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.

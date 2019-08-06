@@ -34,6 +34,7 @@ Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, an
 <b>Haozhe Zhang</b>.
 <br>
 <i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i>
+\[[pdf](https://lib.dr.iastate.edu/stat_ag_etd/)\]
 
 <b>[Random Forest Prediction Intervals](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2019.1585288?journalCode=utas20#.XSzfM-hKi34)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 

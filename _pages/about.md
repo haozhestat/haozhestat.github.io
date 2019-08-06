@@ -22,12 +22,12 @@ redirect_from:
 * I am currently a Data & Applied Scientist at [Microsoft Cloud AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
 * I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
 [Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019, and my B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC) in 2014. I worked at OIST (2013), Liberty Mutual (2017) and eBay (2018) as summer intern.
-* My research lies on interpretation, diagnostics, and predictive inference for machine learning algorithms, functional data analysis, applied data science, and quantitative research in interdisciplinary areas. 
+* My research lies on interpretation, diagnostics, and inference for machine learning algorithms, functional data analysis, applied data science, and interdisciplinary quantitative research. 
 
 # Recent News
 * June 15, 2019. I attended the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.
 * May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
-* February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://github.com/haozhestat/rfinterval)* is publicly available on github.
+* February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://cran.r-project.org/web/packages/rfinterval/index.html)* is avaialbe on CRAN.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
 * January 10, 2019. I gave a 30-min talk at Facebook Headquarter in Menlo Park, CA.

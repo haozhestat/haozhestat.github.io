@@ -4,7 +4,7 @@ author_profile: true
 ---
 <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br> 
-Submitted to <i> Journal of the Royal Statistical Society: Series B.</i>
+Submitted to <i> Journal of the Royal Statistical Society: Series B (Statistical Methodology).</i>
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=328380)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]

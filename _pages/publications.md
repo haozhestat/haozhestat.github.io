@@ -4,18 +4,12 @@ author_profile: true
 ---
 
 ### Methods & Theory 
-
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
 <br>
 <i> Manuscript in Preparation for The Annals of Applied Statistics.</i>
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
-
-<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
-Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
-<br>
-<i> Manuscript in Preparation for Animal Behavior.</i>
 
 <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br> 
@@ -33,20 +27,26 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
 <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
-
-<b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_ag_etd/)</b><br>
-<b>Haozhe Zhang</b>.
-<br>
-<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i>
- <br>
-\[[abstract](https://lib.dr.iastate.edu/stat_ag_etd/)\]\[[pdf](https://lib.dr.iastate.edu/stat_ag_etd/)\]
-
 <b>[Random Forest Prediction Intervals](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2019.1585288?journalCode=utas20#.XSzfM-hKi34)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>. 
  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\]
+
+<b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
+<b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
+ In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
+ <br>
+ \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
+ 
+ 
+### Interdisciplinary Research
+
+<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
+Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
+<br>
+<i> Manuscript in Preparation for Animal Behavior.</i>
 
 <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
@@ -55,12 +55,6 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 \[[pdf](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)\]
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
-
-<b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
- In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
- <br>
- \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
 
 <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
@@ -101,6 +95,15 @@ Technical Report (in Chinese), 2015.</i>
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
+
+### Ph.D. Dissertation
+
+<b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_ag_etd/)</b><br>
+<b>Haozhe Zhang</b>.
+<br>
+<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i>
+ <br>
+\[[abstract](https://lib.dr.iastate.edu/stat_ag_etd/)\]\[[pdf](https://lib.dr.iastate.edu/stat_ag_etd/)\]
 
 <!--
 ## Working Papers

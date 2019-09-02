@@ -4,12 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data]()</b><br>
+* <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
 <i> Manuscript in Preparation for The Annals of Applied Statistics.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
-<b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
+* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br> 
 Under Review by <i> Journal of the Royal Statistical Society: Series B.</i> <br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=328380)\]
@@ -17,24 +17,20 @@ Under Review by <i> Journal of the Royal Statistical Society: Series B.</i> <br>
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
 
-<b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
-Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.
-<br>
-Major Revision Invited by <i> Journal of the American Statistical Association.</i>
-<br>
+* <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
+Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
+Major Revision Invited by <i> Journal of the American Statistical Association.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
-<b>[Random Forest Prediction Intervals](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2019.1585288?journalCode=utas20#.XSzfM-hKi34)</b> <br>
+* <b>[Random Forest Prediction Intervals](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2019.1585288?journalCode=utas20#.XSzfM-hKi34)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
- <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>. 
- <br>
+ <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\]
 
-<b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
+* <b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
- In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i>
- <br>
+ In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
  

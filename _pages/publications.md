@@ -1,9 +1,8 @@
 ---
+title: false
 permalink: /publications/
 author_profile: true
 ---
-
-
 
 ## Methods & Theory 
 

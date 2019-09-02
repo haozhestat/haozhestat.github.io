@@ -1,10 +1,10 @@
 ---
-title: false
+title: Research Papers
 permalink: /publications/
 author_profile: true
 ---
 
-### Methods & Theory
+## Methods & Theory
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable

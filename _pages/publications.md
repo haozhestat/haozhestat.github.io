@@ -36,52 +36,44 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
  
 # Interdisciplinary Research
 
-<b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
-Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
-<br>
+* <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
+Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.<br>
 <i> Manuscript in Preparation for Animal Behavior.</i>
 
-<b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
+* <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
- <i> Molecular Plant, 2(3):390-401, 2019. </i>
-<br>
+ <i> Molecular Plant, 2(3):390-401, 2019. </i><br>
 \[[pdf](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)\]
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
-<b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
-Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> 
-<br>
+* <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
+Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> <br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0272884215023135)\]
 \[[dataset](http://haozhestat.github.io/files/Ceramics-Data.zip)\]
 
-<b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
+* <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
-In Proceedings of the Sixth International Workshop on Climate Informatics, 117–120, 2016.</i>
-<br>
+In Proceedings of the Sixth International Workshop on Climate Informatics, 117–120, 2016.</i><br>
 \[[pdf](https://opensky.ucar.edu/islandora/object/technotes:543)\]
 \[[slides](https://www2.cisl.ucar.edu/sites/default/files/CI_Slides_Zhang_Haozhe.pdf)\]
 \[[video](https://www.youtube.com/watch?v=aYRBfoA15V8)\]
 
-<b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
+* <b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
-Proceedings of the Royal Society A, 471(2182), 2015.</i> 
-<br>
+Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[pdf](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
 \[[dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
 
-<b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
+* <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
-Technical Report (in Chinese), 2015.</i> 
-<br>
+Technical Report (in Chinese), 2015.</i> <br>
 \[[pdf](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
 \[[dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
 \[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
-<b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b>
-<br>
-<b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i>
-<br>
+* <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b><br>
+<b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i><br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
 \[[code](http://haozhestat.github.io/files/matlab_Namibia.zip)\]
 \[[dataset](http://haozhestat.github.io/files/Data_Namibia.zip)\]
@@ -91,11 +83,9 @@ Technical Report (in Chinese), 2015.</i>
 
 # Ph.D. Dissertation
 
-<b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_ag_etd/)</b><br>
-<b>Haozhe Zhang</b>.
-<br>
-<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i>
- <br>
+* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_ag_etd/)</b><br>
+<b>Haozhe Zhang</b>.<br>
+<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i><br>
 \[[abstract](https://lib.dr.iastate.edu/stat_ag_etd/)\]\[[pdf](https://lib.dr.iastate.edu/stat_ag_etd/)\]
 
 <!--

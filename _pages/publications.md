@@ -1,11 +1,8 @@
 ---
-title: null
-title-heading: false
+title: Methods & Theory
 permalink: /publications/
 author_profile: true
 ---
-
-## Methods & Theory
 
 <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
@@ -44,7 +41,7 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
  
-## Interdisciplinary Research
+### Interdisciplinary Research
 
 <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.
@@ -99,7 +96,7 @@ Technical Report (in Chinese), 2015.</i>
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
 
-## Ph.D. Dissertation
+### Ph.D. Dissertation
 
 <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_ag_etd/)</b><br>
 <b>Haozhe Zhang</b>.

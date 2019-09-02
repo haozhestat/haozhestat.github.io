@@ -2,8 +2,7 @@
 permalink: /publications/
 author_profile: true
 ---
-
-<br>
+<b> </b>
 
 ##  Methods & Theory 
 

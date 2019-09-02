@@ -1,5 +1,5 @@
 ---
-title: false
+title: null
 title-heading: false
 permalink: /publications/
 author_profile: true

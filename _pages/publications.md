@@ -21,7 +21,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
 Major Revision Invited by <i> Journal of the American Statistical Association.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
-* <b>[Random Forest Prediction Intervals](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2019.1585288?journalCode=utas20#.XSzfM-hKi34)</b> <br>
+* <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]

@@ -38,7 +38,7 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
 
 * <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.<br>
-<i> Manuscript in Preparation for Animal Behavior.</i>
+<i> Manuscript in Preparation.</i>
 
 * <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>

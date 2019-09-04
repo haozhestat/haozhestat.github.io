@@ -26,7 +26,7 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\] <br>
-![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval)
+![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval?color=brightgreen)
 
 
 * <b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>

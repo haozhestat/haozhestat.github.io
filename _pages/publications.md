@@ -24,8 +24,7 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
- [![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval?color=brightgreen)](https://cran.r-project.org/web/packages/rfinterval)
- <br>
+ ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval?color=brightgreen)<br>
 \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\] 
 

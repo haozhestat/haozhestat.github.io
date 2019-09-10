@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
+* Proposal Reviewer, Fall 2019 MLADS Conference (Microsoft machinel learning internal conference). 
 * Session Chair, *Spatial and Spatiotemporal Modeling in Climate and Meteorology*, Section on Statistics and the Environment, Joint Statistical Meetings 2019.
 * Program Committee Member, Artificial Intelligence Track, *2019 Grace Hopper Celebration of Women in Computing*.
 * Reviewer for *Statistica Sinicia*, *IEEE Transactions on Knowledge and Data Engineering*, *Stat*, and *PeerJ*.

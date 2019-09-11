@@ -49,6 +49,14 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 \[[dataset](https://www.sciencedirect.com/science/article/pii/S1674205219300024#app2)\]
 \[[news](https://www.news.iastate.edu/news/2019/02/08/datamininggenomics)\]
 
+
+<b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
+ <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>
+Refereed Abstract at SIAM Conference on Computational Science and Engineering (CSE2019)
+ <br>
+\[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
+ \[[slides](http://haozhestat.github.io/files/Shad_Presentations.pdf)\]
+
 * <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> <br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0272884215023135)\]

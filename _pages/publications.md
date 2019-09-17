@@ -51,7 +51,7 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>
 <i> Refereed Abstract and Invited Talk at SIAM Conference on Computational Science and Engineering (CSE2019) </i> <br>
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
- \[[slides](http://haozhestat.github.io/files/Shad_Presentations.pdf)\]
+ \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
 
 * <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
 Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> <br>

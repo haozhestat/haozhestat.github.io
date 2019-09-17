@@ -28,8 +28,6 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\] <br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval?color=brightgreen)
 
-
-
 * <b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
@@ -91,7 +89,7 @@ Technical Report (in Chinese), 2015.</i> <br>
 
 # Ph.D. Dissertation
 
-* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17929/)</b><br>
+* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_las_etd/)</b><br>
 <b>Haozhe Zhang</b>.<br>
 <i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i><br>
 \[[abstract](https://lib.dr.iastate.edu/etd/17929/)\]\[[pdf](https://lib.dr.iastate.edu/etd/17929/)\]

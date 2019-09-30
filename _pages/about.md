@@ -22,8 +22,7 @@ redirect_from:
 * I am currently a Data & Applied Scientist at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
 * I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
 [Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019, and my B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I worked at OIST (2013), Liberty Mutual (2017) and eBay (2018) as summer intern.
-* My research lies on interpretation, diagnostics, and inference for machine learning algorithms, large-scale online experimentation, functional data analysis, applied data science, and interdisciplinary quantitative research. 
-
+* My research lies on interpretation, diagnostics, inference, and automation for machine learning algorithms, large-scale online experimentation, functional data analysis, and applied data science.
 # Recent News
 * June 15, 2019. I attended the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.
 * May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.

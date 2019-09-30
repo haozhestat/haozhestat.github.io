@@ -34,7 +34,7 @@ Major Revision Invited by <i> Journal of the American Statistical Association.</
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
  
-# Interdisciplinary Research
+# Interdisciplinary Applied Research
 
 * <b>[Neonate Garter Snakes <i> Thamnophis Elegans </i> Exhibit Consistent Among-individual Variation in Behavior and Habituation at Multiple Time Scales](http://lezardsdemontagne.blogspot.com/)</b><br>
 Eric Gangloff, Vianey Leos, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, and Anne Bronikowski.<br>

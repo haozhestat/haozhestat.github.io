@@ -13,7 +13,7 @@ Under Review by <i> Journal of the Royal Statistical Society: Series B.</i> <br>
 
 * <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
-<i> Manuscript in Preparation for The Annals of Applied Statistics.</i><br>
+Manuscript in Preparation for <i> The Annals of Applied Statistics.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>

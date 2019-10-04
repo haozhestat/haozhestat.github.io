@@ -25,7 +25,7 @@ redirect_from:
 * My research lies on interpretation, diagnostics, inference, and automation for machine learning algorithms, large-scale online experimentation, functional data analysis, and applied data science.
 
 # News
-* October 21-25, 2019. I will work from Microsoft New England Research and Development Center in Boston, and attend [Harvard Data
+* October 21-25, 2019. I will work from [Microsoft New England Research and Development Center](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in Boston, and attend [Harvard Data
 Science Initiative Conference](https://www.hdsiconference.org/).
 * June 15, 2019. I attended the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.
 * May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.

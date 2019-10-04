@@ -25,8 +25,8 @@ redirect_from:
 * My research lies on interpretation, diagnostics, inference, and automation for machine learning algorithms, large-scale online experimentation, functional data analysis, and applied data science.
 
 # News
-* October 21-25, 2019. I will work from Microsoft New England Research and Development Center in Boston, and attend Harvard Data
-Science Initiative Conference.
+* October 21-25, 2019. I will work from Microsoft New England Research and Development Center in Boston, and attend [Harvard Data
+Science Initiative Conference](https://www.hdsiconference.org/).
 * June 15, 2019. I attended the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.
 * May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
 * February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://cran.r-project.org/web/packages/rfinterval/index.html)* is avaialbe on CRAN.

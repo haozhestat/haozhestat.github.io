@@ -25,7 +25,7 @@ redirect_from:
 * My research interests lie on interpretation, diagnostics, inference, and automation for machine learning algorithms, large-scale online experimentation, functional data analysis, and applied data science.
 
 # News
-* December 8-14, 2019. I will attend *[NeurIPS 2019]() in Vancouver, Canada.
+* December 8-14, 2019. I will attend *[NeurIPS 2019](https://nips.cc/)* in Vancouver, Canada.
 * October 21-25, 2019. I visited Microsoft New England Research and Development Center in Boston, and attended Harvard Data
 Science Initiative Conference.
 * June 15, 2019. I participated in the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.

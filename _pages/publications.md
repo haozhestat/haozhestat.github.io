@@ -89,10 +89,10 @@ Technical Report (in Chinese), 2015.</i> <br>
 
 # Ph.D. Dissertation
 
-* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/stat_las_etd/)</b><br>
+* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
 <b>Haozhe Zhang</b>.<br>
-<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17929.</i><br>
-\[[abstract](https://search.proquest.com/openview/d921a6266321d340f5c833592008d053/1?pq-origsite=gscholar&cbl=18750&diss=y)\]\[[pdf](https://lib.dr.iastate.edu/etd)\]
+<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
+\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](https://lib.dr.iastate.edu/etd/17626/)\]
 
 <!--
 ## Working Papers

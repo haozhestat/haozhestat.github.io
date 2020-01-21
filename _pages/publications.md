@@ -17,7 +17,7 @@ Manuscript in Preparation for <i> The Annals of Applied Statistics.</i><br>
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
-Frist-Round Revision Submitted to <i> Journal of the American Statistical Association.</i><br>
+Minor Revision Invited by <i> Journal of the American Statistical Association.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>

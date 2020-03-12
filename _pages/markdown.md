@@ -7,10 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+* Reviewer for *KDD 2020*, *Statistica Sinicia*, *IEEE Transactions on Knowledge and Data Engineering*, *Stat*, *PLoS One* and *PeerJ*.
 * Proposal Reviewer, Fall 2019 MLADS Conference (Microsoft machinel learning internal conference). 
 * Session Chair, *Spatial and Spatiotemporal Modeling in Climate and Meteorology*, Section on Statistics and the Environment, Joint Statistical Meetings 2019.
 * [Program Committee Member](https://www.dropbox.com/s/iksr4m501vf0usq/ghc19committeecertificate_53.pdf?dl=0), Artificial Intelligence Track, *2019 Grace Hopper Celebration of Women in Computing*.
-* Reviewer for *Statistica Sinicia*, *IEEE Transactions on Knowledge and Data Engineering*, *Stat*, *PLoS One* and *PeerJ*.
 * International Student Advisory Board, Iowa State University, 2018-19.
 * Computation Advisory Committe, Department of Statistics, Iowa State University, 2017--18.
 * President of the Iowa STAT-ers, 2017--18.

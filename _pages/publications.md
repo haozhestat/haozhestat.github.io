@@ -61,11 +61,14 @@ Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Hua
 Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[pdf](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
 \[[dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
+\[[report](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
+\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
+<!--
 * <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
 Technical Report (in Chinese), 2015.</i> <br>
-\[[pdf](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
+\[[Chinese Version](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
 \[[dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
 \[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 

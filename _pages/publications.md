@@ -1,5 +1,5 @@
 ---
-title: Papers
+title: Publication
 permalink: /publications/
 author_profile: true
 ---
@@ -20,6 +20,11 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
 Accepted by <i> Journal of the American Statistical Association.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
 
+* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
+<b>Haozhe Zhang</b>.<br>
+<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
+\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](http://haozhestat.github.io/files/Haozhe_Thesis.pdf)\]
+
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
@@ -32,7 +37,6 @@ Accepted by <i> Journal of the American Statistical Association.</i><br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
-
 * <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
  <i> Molecular Plant, 2(3):390-401, 2019. </i><br>
@@ -45,11 +49,6 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 <i> Refereed Abstract and Invited Talk at SIAM Conference on Computational Science and Engineering (CSE2019) </i> <br>
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
  \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
-
-* <b>[Data-driven Research on Chemical Features of Jingdezhen and Longquan Celadon by Energy Dispersive X-ray Fluorescence](https://www.sciencedirect.com/science/article/pii/S0272884215023135)</b><br>
-Ziyang He, Maolin Zhang, <b>Haozhe Zhang</b>. <br> <i>Ceramics International, 42(4):5123--5129, 2016.</i> <br>
-\[[pdf](https://www.sciencedirect.com/science/article/pii/S0272884215023135)\]
-\[[dataset](http://haozhestat.github.io/files/Ceramics-Data.zip)\]
 
 * <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
@@ -78,14 +77,6 @@ Technical Report (in Chinese), 2015.</i> <br>
 \[[dataset](http://haozhestat.github.io/files/Data_Namibia.zip)\]
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
-
-
-# Ph.D. Dissertation
-
-* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
-<b>Haozhe Zhang</b>.<br>
-<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
-\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](http://haozhestat.github.io/files/Haozhe_Thesis.pdf)\]
 
 <!--
 ## Working Papers

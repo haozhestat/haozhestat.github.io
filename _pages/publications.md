@@ -18,6 +18,7 @@ Manuscript in Preparation for <i> The Annals of Applied Statistics.</i><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
 Accepted by <i> Journal of the American Statistical Association.</i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
+ \[[pdf](https://www.researchgate.net/profile/Xiaohui_Chang/publication/340663289_Modeling_and_Regionalization_of_China's_PM_25_Using_Spatial-Functional_Mixture_Models/links/5e97e6c0a6fdcca7891c2d23/Modeling-and-Regionalization-of-Chinas-PM-25-Using-Spatial-Functional-Mixture-Models.pdf)
 
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
 <b>Haozhe Zhang</b>.<br>

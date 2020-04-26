@@ -19,7 +19,7 @@ redirect_from:
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 -->
-* I am currently a Data & Applied Scientist at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/) working on [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/).
+* I am a data & applied scientist at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/) working on [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/).
 * I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
 [Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019, and my B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I worked at [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013), [Liberty Mutual](http://haozhestat.github.io/files/IMG_1983.JPG) (2017) and [eBay advertising](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018) as summer intern.
 * My research interests lie on interpretation, diagnostics, inference, and automation for machine learning, large-scale online experimentation, functional data analysis, and applied data science.

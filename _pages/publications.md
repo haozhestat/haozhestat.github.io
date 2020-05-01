@@ -11,12 +11,12 @@ author_profile: true
 
 * <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
-Manuscript in Preparation</i><br>
+Manuscript in Preparation<br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
 * <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
 Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
-Manuscript in Preparation</i><br>
+Manuscript in Preparation<br>
 \[[Software](https://github.com/chancejohnstone/piRF)\]
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model]()</b><br>

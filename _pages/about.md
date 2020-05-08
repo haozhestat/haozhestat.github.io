@@ -19,14 +19,14 @@ redirect_from:
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 -->
-* I am a data & applied scientist in Azure Machine Learning at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
+* I am a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
 * I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
 [Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019, and my B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I worked at [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013), [Liberty Mutual](http://haozhestat.github.io/files/IMG_1983.JPG) (2017) and [eBay advertising](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018) as summer intern.
 * My research interests lie on interpretation, diagnostics, inference, and automation for machine learning, large-scale online experimentation, functional data analysis, and applied data science.
 
 # News
-* April 15, 2020. Our research paper  titled "Modeling and Regionalization of China's PM2.5 Using Spatial-Functional Mixture Model" has been accepted by *[Journal of American Statistical Association](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1764363?journalCode=uasa20#.XrSZ_MhKg2t)*.
-* December 8-14, 2019. I will attend *[NeurIPS 2019](https://nips.cc/)* in Vancouver, Canada.
+* April 15, 2020. Our research paper  titled "Modeling and Regionalization of China's PM2.5 Using Spatial-Functional Mixture Model" was accepted by *[Journal of American Statistical Association](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1764363?journalCode=uasa20#.XrSZ_MhKg2t)*.
+* December 8-14, 2019. I attended *[NeurIPS 2019](https://nips.cc/)* in Vancouver, Canada.
 * October 21-25, 2019. I visited Microsoft New England Research and Development Center in Boston, and attended Harvard Data
 Science Initiative Conference.
 * June 15, 2019. I participated in the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.

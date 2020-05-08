@@ -31,7 +31,7 @@ redirect_from:
 Science Initiative Conference.
 * June 15, 2019. I participated in the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.
 * May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
-* February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://cran.r-project.org/web/packages/rfinterval/index.html)* is avaialbe on CRAN.
+* February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. Its R package *[rfinterval](https://cran.r-project.org/web/packages/rfinterval/index.html)* is avaialbe on CRAN.
 * Our research work about [Constructing a Graph from User Implicit Feedback
 ](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
 * January 10, 2019. I gave a 30-min talk at Facebook Headquarter in Menlo Park, CA.

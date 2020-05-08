@@ -25,7 +25,7 @@ redirect_from:
 * My research interests lie on interpretation, diagnostics, inference, and automation for machine learning, large-scale online experimentation, functional data analysis, and applied data science.
 
 # News
-* April 15, 2020. Our paper "Modeling and Regionalization of China's PM2.5 Using Spatial-Functional Mixture Model" was accepted by *[Journal of American Statistical Association](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1764363?journalCode=uasa20#.XrSZ_MhKg2t)*.
+* April 15, 2020. Our paper "Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model" was accepted by *[Journal of American Statistical Association](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1764363?journalCode=uasa20#.XrSZ_MhKg2t)*.
 * December 8-14, 2019. I attended *[NeurIPS 2019](https://nips.cc/)* in Vancouver, Canada.
 * October 21-25, 2019. I visited Microsoft New England Research and Development Center in Boston, and attended Harvard Data
 Science Initiative Conference.

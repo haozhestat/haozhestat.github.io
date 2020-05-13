@@ -17,7 +17,7 @@ Manuscript in Preparation<br>
 * <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
 Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
 Manuscript in Preparation for <i> Journal of Statistical Software </i> <br>
-\[[Software](https://github.com/chancejohnstone/piRF)\]
+\[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>

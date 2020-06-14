@@ -1,9 +1,9 @@
 ---
 permalink: /publications/
+title: "Publication"
 author_profile: true
 ---
 
-## Publication
 
 ### Theory and Method
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>

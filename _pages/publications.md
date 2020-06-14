@@ -3,6 +3,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Theory and Method
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. Under Review. <br> 
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=328380)\]
@@ -27,11 +28,6 @@ Accepted by <i> Journal of the American Statistical Association.</i><br>
  \[[pdf](https://www.researchgate.net/profile/Xiaohui_Chang/publication/340663289_Modeling_and_Regionalization_of_China's_PM_25_Using_Spatial-Functional_Mixture_Models/links/5e97e6c0a6fdcca7891c2d23/Modeling-and-Regionalization-of-Chinas-PM-25-Using-Spatial-Functional-Mixture-Models.pdf)\]
  \[[link](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)\]
 
-* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
-<b>Haozhe Zhang</b>.<br>
-<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
-\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](http://haozhestat.github.io/files/Haozhe_Thesis.pdf)\]
-
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
@@ -39,6 +35,12 @@ Accepted by <i> Journal of the American Statistical Association.</i><br>
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\] <br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval?color=brightgreen)
  
+ * <b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
+<b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
+ In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
+ \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
+ 
+ ### Collaboration and Applied Data Science
 * <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
  <i> Molecular Plant, 2(3):390-401, 2019. </i><br>
@@ -52,11 +54,6 @@ Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, She
 \[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
  \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
  
-* <b>[Regression-Enhanced Random Forests](https://arxiv.org/pdf/1904.10416.pdf)</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
- In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
- \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
-
 * <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
 <b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
 In Proceedings of the Sixth International Workshop on Climate Informatics, 117–120, 2016.</i><br>
@@ -72,6 +69,13 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[report](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
 \[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
+* <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
+Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
+Technical Report (in Chinese), 2015.</i> <br>
+\[[Chinese Version](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
+\[[dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
+\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
+
 * <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b><br>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i><br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
@@ -80,49 +84,9 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
-<!--
-* <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
-Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
-Technical Report (in Chinese), 2015.</i> <br>
-\[[Chinese Version](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
-\[[dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
-\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
+### Thesis
+* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
+<b>Haozhe Zhang</b>.<br>
+<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
+\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](http://haozhestat.github.io/files/Haozhe_Thesis.pdf)\]
 
-
-<!--
-## Working Papers
-<!--
-<b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data](https://www.genomes2fields.org/)</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable
-<br>
-<i> Manuscript in preparation.</i>
-<br>
-\[[abstract](http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
-
-<!--
-<b>[Change of precipitation regionalization over China during 1961-2010]()</b> <br>
-Shuiqing Yin, <b>Haozhe Zhang</b>, Decai Liang, Zhengyuan Zhu, and Deliang Chen.<br>
- <i> Manuscript in preparation.</i>
-
-<!--
-<b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
- <b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>
- Preprint presented at SIAM Conference on Computational Science and Engineering (CSE2019)
- <br>
- <i> Manuscript in preparation.</i>
-<br>
-\[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
- \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
-
-
-
-
-
-<!--
-<b>[Diagnosing Extrapolation in Test Data with Manifold Learning]()</b><br>
-Joint work with Dan Nettleton.
--->
-<!--
-<b>[Optimal Penalized Scalar-on-Function Regression and Efficient Dimensional Reduction for Discretely Sampled Data]()</b><br>
-Joint work with Yehua Li.
--->

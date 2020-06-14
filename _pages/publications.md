@@ -20,13 +20,13 @@ Manuscript in Preparation for <i> Biometrics </i><br>
 
 * <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
 Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
-Manuscript in Preparation for <i> Journal of Statistical Software </i> <br>
+Manuscript in Preparation for <i> Journal of Statistical Software. </i> <br>
 \[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
-<i> Journal of the American Statistical Association</i>, 2020, DOI: 10.1080/01621459.2020.1764363<br>
+<i> Journal of the American Statistical Association</i>, 2020, DOI: 10.1080/01621459.2020.1764363.<br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
  \[[pdf](https://www.researchgate.net/profile/Xiaohui_Chang/publication/340663289_Modeling_and_Regionalization_of_China's_PM_25_Using_Spatial-Functional_Mixture_Models/links/5e97e6c0a6fdcca7891c2d23/Modeling-and-Regionalization-of-Chinas-PM-25-Using-Spatial-Functional-Mixture-Models.pdf)\]
  \[[link](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)\]
@@ -44,6 +44,10 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
  ### Collaboration and Applied Data Science
+* <b>[Neonate garter snakes exhibit consistent among-individual 1variation inmultiple behavioural measures and habituation at multiple time scales]()</b> <br>
+Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b> Haozhe Zhang </b>, Clint Kelly, Anne Bronikowski. <br>
+<i> Working Paper. </i><br>
+
 * <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>
 Tingting Guo, Xiaoqing Yu, Xianran Li, <b> Haozhe Zhang </b>, Chengsong Zhu, Sherry Flint-Garcia, Michael D. McMullen, James B. Holland, Randall J. Wisser, and Jianming Yu. <br>
  <i> Molecular Plant, 2(3):390-401, 2019. </i><br>

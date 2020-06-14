@@ -12,7 +12,6 @@ Under Review for <i> Journal of the American Statistical Association.</i><br>
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 \[[preprint]()\]
 
-
 * <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
 Manuscript in Preparation for <i> Biometrics </i><br>
@@ -43,7 +42,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
- ### Collaboration and Applied Data Science
+### Applied Data Science and Interdisciplinary Research
 * <b>[Neonate garter snakes exhibit consistent among-individual 1variation inmultiple behavioural measures and habituation at multiple time scales]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Working Paper. </i><br>

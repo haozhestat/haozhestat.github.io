@@ -45,7 +45,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  
  ### Collaboration and Applied Data Science
 * <b>[Neonate garter snakes exhibit consistent among-individual 1variation inmultiple behavioural measures and habituation at multiple time scales]()</b> <br>
-Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b> Haozhe Zhang </b>, Clint Kelly, Anne Bronikowski. <br>
+Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Working Paper. </i><br>
 
 * <b>[Optimal Designs for Genomic Selection in Hybrid Crops](http://haozhestat.github.io/files/1-s2.0-S1674205219300024-main.pdf)</b> <br>

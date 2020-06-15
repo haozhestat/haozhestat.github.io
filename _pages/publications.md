@@ -16,7 +16,7 @@ Manuscript in Preparation for <i> Journal of Statistical Software. </i> <br>
 \[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
  
-* <b> [FLAML: An Fast and Lightweight AutoML Library]()</b> <br>
+* <b> [FLAML: A Fast and Lightweight AutoML Library]()</b> <br>
 Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
 

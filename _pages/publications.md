@@ -44,7 +44,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
 ## Applied Data Science and Interdisciplinary Research:
-* <b>[Neonate garter snakes exhibit consistent among-individual 1variation inmultiple behavioural measures and habituation at multiple time scales]()</b> <br>
+* <b>[Neonate garter snakes exhibit consistent among-individual variation in multiple behavioural measures and habituation at multiple time scales]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Working Paper. </i><br>
 

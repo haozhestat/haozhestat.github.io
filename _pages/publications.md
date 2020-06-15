@@ -16,10 +16,11 @@ Manuscript in Preparation for <i> Journal of Statistical Software. </i> <br>
 \[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
  
+<!---
 * <b> [FLAML: A Fast and Lightweight AutoML Library]()</b> <br>
 Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
-
+-->
  
  * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>

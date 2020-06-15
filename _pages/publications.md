@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-### Theory and Method
+## Theory and Method
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
 Under Review for <i> Journal of the American Statistical Association.</i><br>
@@ -44,7 +44,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
  
-### Applied Data Science and Interdisciplinary Research
+## Applied Data Science and Interdisciplinary Research
 * <b>[Neonate garter snakes exhibit consistent among-individual 1variation inmultiple behavioural measures and habituation at multiple time scales]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Working Paper. </i><br>
@@ -92,7 +92,7 @@ Technical Report (in Chinese), 2015.</i> <br>
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
-### Thesis
+## Thesis
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
 <b>Haozhe Zhang</b>.<br>
 <i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>

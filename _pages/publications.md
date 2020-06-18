@@ -20,15 +20,14 @@ Manuscript in Preparation for <i> Journal of Statistical Software. </i> <br>
 * <b> [FLAML: A Fast and Lightweight AutoML Library]()</b> <br>
 Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
--->
  
- * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://today.uci.edu/event/spatially_dependent_functional_data_covariance_estimation_principal_component_analysis_and_kriging#.XCkCHM9KjdQ)</b> <br>
+ * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency]()</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
 Under Review for <i> Journal of the American Statistical Association.</i><br>
-\[[abstract](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=328380)\]
+\[[arxiv]()\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
-\[[preprint]()\]
+
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>

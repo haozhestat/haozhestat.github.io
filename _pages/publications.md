@@ -21,8 +21,12 @@ Manuscript in Preparation for <i> Journal of Statistical Software. </i> <br>
 Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
 -->
+
+* <b> [FLAML: A Fast and Lightweight AutoML Library]()</b> <br>
+Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
+Under Review for <i> NeurIPS 2020.</i><br>
  
- * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency]()</b> <br>
+* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency]()</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
 Under Review for <i> Journal of the American Statistical Association.</i><br>
 \[[arxiv]()\]

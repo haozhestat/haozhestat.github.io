@@ -26,10 +26,10 @@ Under Review for <i> NeurIPS 2020.</i><br>
 Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
  
-* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency]()</b> <br>
+* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
 Under Review for <i> Journal of the American Statistical Association.</i><br>
-\[[arxiv]()\]
+\[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 

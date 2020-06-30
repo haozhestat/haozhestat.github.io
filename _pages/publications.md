@@ -22,7 +22,7 @@ Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
 -->
 
-* <b> [FLAML: A Fast and Lightweight AutoML Library]()</b> <br>
+* <b> [FLAML: A Fast and Lightweight Automated Machine Learning Library]()</b> <br>
 Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
 Under Review for <i> NeurIPS 2020.</i><br>
  

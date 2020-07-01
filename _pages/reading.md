@@ -9,4 +9,4 @@ author_profile: true
 * [ ] Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing 
 * [ ] 浪潮之巅
 * [ ] Stanford CS224N (NLP with Deep Learning)
-* [x] [至味在人间](https://book.douban.com/subject/26687647/)
+- \[x] [至味在人间](https://book.douban.com/subject/26687647/)

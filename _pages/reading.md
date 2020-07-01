@@ -10,4 +10,4 @@ author_profile: true
 * [ ] High Output Management 
 * [ ] Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing 
 * [ ] Stanford CS224N (NLP with Deep Learning)
-* [ ] 至味在人间
+* [x] [至味在人间](https://book.douban.com/subject/26687647/)

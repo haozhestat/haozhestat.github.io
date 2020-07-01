@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 - [High Output Management](https://book.douban.com/subject/1957941/)
-- Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty 
+- [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://book.douban.com/subject/6962220/)
 - The Principles (Ray Dalio)
 - [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [弱传播：舆论世界的哲学](https://book.douban.com/subject/30383755//)

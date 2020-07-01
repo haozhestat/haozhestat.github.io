@@ -22,11 +22,11 @@ main:
 #  - title: "Photos"
 #    url: /year-archive/
 
-  - title: "Plan"
-    url: /planning/  
+#  - title: "Plan"
+#    url: /planning/  
     
-   - title: "Read"
-     url: /reading/
+  # - title: "Read"
+   #  url: /reading/
 
   - title: "Links"
     url: /links/ 

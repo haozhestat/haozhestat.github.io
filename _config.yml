@@ -205,7 +205,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+   # _reading
+  - scope:
+      path: ""
+      type: reading
+    values:
+      layout: single
+      author_profile: true
+  # _planning
   - scope:
       path: ""
       type: planning

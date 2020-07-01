@@ -3,7 +3,7 @@ permalink: /reading/
 author_profile: true
 ---
 
-* [ ] [High Output Management](Stanford CS224N (NLP with Deep Learning)
+* [ ] [High Output Management](https://book.douban.com/subject/1957941/)
 * [ ] Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty 
 * [ ] The Principles (Ray Dalio)
 * [ ] Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing 

@@ -12,4 +12,5 @@ author_profile: true
 - [Reprogramming the American Dream](https://book.douban.com/subject/35027422/)
 - [浪潮之巅](https://book.douban.com/subject/33474750/)
 - [Stanford CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/gp/product/0553384619/ref=crt_ewc_title_huc_4?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
 - ~~[至味在人间](https://book.douban.com/subject/26687647/)~~

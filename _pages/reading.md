@@ -4,6 +4,7 @@ author_profile: true
 ---
 
 - [I.M. Wright’s “Hard Code”](https://imwrightshardcode.com/)
+- [Beyond the Void](https://byvoid.com/zhs/)
 - [High Output Management](https://book.douban.com/subject/1957941/)
 - [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://book.douban.com/subject/6962220/)
 - [Principles: Life and Work](https://book.douban.com/subject/20036150/)

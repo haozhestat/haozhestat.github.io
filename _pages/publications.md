@@ -17,17 +17,6 @@ Under Review.</i><br>
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
-* <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
-Working Paper. </i><br>
-\[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
-
-* <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
-Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
-Working Paper. </i> <br>
-\[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
- ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
-
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
  <i>The American Statistician, 2019, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
@@ -39,6 +28,26 @@ Working Paper. </i> <br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
+ 
+ 
+* <b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
+Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
+Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
+\[[pdf](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
+\[[dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
+\[[report](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
+\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
+
+* <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
+<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
+Working Paper. </i><br>
+\[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
+
+* <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
+Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
+Working Paper. </i> <br>
+\[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
+ ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
 
 * <b>[Behavioral metrics and hierarchical movement modeling reveal personality axes in neonate garter snakes]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
@@ -64,13 +73,6 @@ In Proceedings of the Sixth International Workshop on Climate Informatics, 117â€
 \[[slides](https://www2.cisl.ucar.edu/sites/default/files/CI_Slides_Zhang_Haozhe.pdf)\]
 \[[video](https://www.youtube.com/watch?v=aYRBfoA15V8)\]
 
-* <b>[Assessing Beijing's PM$_{2.5}$ Pollution: Severity, Impacts of Weather, APEC and Winter Heating](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)</b><br>
-Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
-Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
-\[[pdf](http://rspa.royalsocietypublishing.org/content/471/2182/20150257)\]
-\[[dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)\]
-\[[report](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
-\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
 * <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
 Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>

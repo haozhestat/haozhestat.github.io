@@ -3,45 +3,30 @@ permalink: /publications/
 title: "List of Research Papers"
 author_profile: true
 ---
-
-## Theory and Method:
-* <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
-Manuscript in Preparation for <i> Biometrics. </i><br>
-\[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
-
-* <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
-Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
-Manuscript in Preparation for <i> Journal of Statistical Software. </i> <br>
-\[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
- ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
-
-<!---
-* <b> [FLAML: A Fast and Lightweight AutoML Library]()</b> <br>
-Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
-Under Review for <i> NeurIPS 2020.</i><br>
--->
-
-<!---
-* <b> [FLAML: A Fast and Lightweight Automated Machine Learning Library]()</b> <br>
-Chi Wang, Qingyun Wu, Markus Weimer, and <b> Haozhe Zhang</b>.<br>
-Under Review for <i> NeurIPS 2020.</i><br>
--->
-
-* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
-<b> Haozhe Zhang</b> and Yehua Li. <br>
-Under Review for <i> Journal of the American Statistical Association.</i><br>
-\[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
-\[[code](https://github.com/haozhestat/spatialFDA)\]
-\[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
-
-
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
 <i> Journal of the American Statistical Association</i>, 2020, DOI: 10.1080/01621459.2020.1764363.<br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
  \[[pdf](https://www.researchgate.net/profile/Xiaohui_Chang/publication/340663289_Modeling_and_Regionalization_of_China's_PM_25_Using_Spatial-Functional_Mixture_Models/links/5e97e6c0a6fdcca7891c2d23/Modeling-and-Regionalization-of-Chinas-PM-25-Using-Spatial-Functional-Mixture-Models.pdf)\]
  \[[link](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)\]
+ 
+* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
+<b> Haozhe Zhang</b> and Yehua Li. <br>
+Under Review.</i><br>
+\[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
+\[[code](https://github.com/haozhestat/spatialFDA)\]
+\[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
+
+* <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
+<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
+Working Paper. </i><br>
+\[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
+
+* <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
+Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
+Working Paper. </i> <br>
+\[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
+ ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
 
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
@@ -54,8 +39,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
 <b>Haozhe Zhang</b>, Dan Nettleton, and Zhengyuan Zhu. <i> <br>
  In JSM Proceedings, Section on Statistical Learning and Data Science, 636-647, 2017.</i> <br>
  \[[pdf](https://arxiv.org/pdf/1904.10416.pdf)\]
- 
-## Applied Data Science and Interdisciplinary Research:
+
 * <b>[Behavioral metrics and hierarchical movement modeling reveal personality axes in neonate garter snakes]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Working Paper. </i><br>

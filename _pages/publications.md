@@ -12,7 +12,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
-Under Review.</i><br>
+<i> Under Review.</i><br>
 \[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
@@ -40,12 +40,12 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 
 * <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
 <b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
-Working Paper. </i><br>
+<i> Working Paper. </i><br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
 
 * <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
 Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
-Working Paper. </i> <br>
+<i> Working Paper. </i> <br>
 \[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
 

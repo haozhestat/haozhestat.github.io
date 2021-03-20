@@ -16,14 +16,14 @@ Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint K
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
-<i> Journal of the American Statistical Association</i>, 2021, DOI: 10.1080/01621459.2020.1764363.<br>
+<i> Journal of the American Statistical Association</i>, 116(533):116-132, 2021.<br>
 \[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=302893)\]
  \[[pdf](https://www.researchgate.net/profile/Xiaohui_Chang/publication/340663289_Modeling_and_Regionalization_of_China's_PM_25_Using_Spatial-Functional_Mixture_Models/links/5e97e6c0a6fdcca7891c2d23/Modeling-and-Regionalization-of-Chinas-PM-25-Using-Spatial-Functional-Mixture-Models.pdf)\]
  \[[link](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)\]
 
 * <b>[Random Forest Prediction Intervals](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)</b> <br>
 <b>Haozhe Zhang</b>, Joshua Zimmerman, Dan Nettleton, and Dan Nordman.<br> 
- <i>The American Statistician, 2020, DOI: 10.1080/00031305.2019.1585288</i>.  <br>
+ <i>The American Statistician, 74(4):392-406, 2020</i>.  <br>
  \[[pdf](http://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf)\]
 \[[software](https://cran.r-project.org/web/packages/rfinterval/rfinterval.pdf)\] <br>
 <!-- ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/rfinterval?color=brightgreen) -->

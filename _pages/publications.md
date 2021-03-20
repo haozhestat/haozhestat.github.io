@@ -10,6 +10,10 @@ author_profile: true
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
+* <b>[Behavioral metrics and hierarchical movement modeling reveal personality axes in neonate garter snakes]()</b> <br>
+Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
+<i> Behavioural Ecology \& Sociobiology, Under Review</i><br>
+
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
 <i> Journal of the American Statistical Association</i>, 2021, DOI: 10.1080/01621459.2020.1764363.<br>
@@ -57,10 +61,6 @@ Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
 \[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
  ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
 -->
-
-* <b>[Behavioral metrics and hierarchical movement modeling reveal personality axes in neonate garter snakes]()</b> <br>
-Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
-<i> Behavioural Ecology \& Sociobiology, Submitted</i><br>
 
 * <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b><br>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i><br>

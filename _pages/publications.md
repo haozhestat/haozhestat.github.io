@@ -12,7 +12,7 @@ author_profile: true
 
 * <b>[Behavioral Metrics and Hierarchical Movement Modeling Reveal Personality Axes in Neonate Garter Snakes]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
-<i> Behavioural Ecology & Sociobiology, Under Review</i><br>
+<i> Behavioural Ecology & Sociobiology, Under Review. </i><br>
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>

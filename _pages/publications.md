@@ -5,14 +5,14 @@ author_profile: true
 ---
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
-<i> Journal of Business \& Economic Statistics, Under Revision.</i><br>
+<i> Journal of Business & Economic Statistics, Under Revision.</i><br>
 \[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
 * <b>[Behavioral metrics and hierarchical movement modeling reveal personality axes in neonate garter snakes]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
-<i> Behavioural Ecology \& Sociobiology, Under Review</i><br>
+<i> Behavioural Ecology & Sociobiology, Under Review</i><br>
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>

@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "List of Research Papers"
+title: "Selected Publications"
 author_profile: true
 ---
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>

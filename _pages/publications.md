@@ -10,7 +10,7 @@ author_profile: true
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
 
-* <b>[Behavioral metrics and hierarchical movement modeling reveal personality axes in neonate garter snakes]()</b> <br>
+* <b>[Behavioral Metrics and Hierarchical Movement Modeling Reveal Personality Axes in Neonate Garter Snakes]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Behavioural Ecology & Sociobiology, Under Review</i><br>
 

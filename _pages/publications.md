@@ -48,20 +48,6 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[report](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
 \[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
 
-<!--
-* <b>[Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Image-based Data]()</b><br>
-<b>Haozhe Zhang</b>, Dan Nettleton, Stefan Hey, Zaki Jubery, Cheng-Ting Yeh, and Pat Schnable <br>
-<i> Working Paper. </i><br>
-\[[abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305225)\]
--->
-<!--
-* <b>[piRF: Implementation of Prediction Interval Methods for Random Forests in R]()</b><br>
-Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
-<i> Working Paper. </i> <br>
-\[[software](https://github.com/chancejohnstone/RFIntervals/issues/19)\]<br>
- ![Download Count](https://cranlogs.r-pkg.org/badges/grand-total/piRF?color=brightgreen)
--->
-
 * <b>[Namibian Fairy Circles and Epithelial Cells Share Emergent Geometric Order](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)</b><br>
 <b>Haozhe Zhang</b>, and Robert Sinclair. <br> <i>Ecological Complexity, 22:32-35, 2015.</i><br>
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S1476945X15000069)\]
@@ -69,31 +55,6 @@ Chancellor Johnstone, <b>Haozhe Zhang</b>, and Dan Nettleton <br>
 \[[dataset](http://haozhestat.github.io/files/Data_Namibia.zip)\]
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
-
-<!--
-* <b>[ Constructing a Graph from User Implicit Feedback](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66151)</b> <br>
-<b>Haozhe Zhang</b>, Yan Qu, and Shad Kirmani.<br>
-<i> Refereed Abstract and Invited Talk at SIAM Conference on Computational Science and Engineering (CSE2019) </i> <br>
-\[[abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916)\]
- \[[slides](http://haozhestat.github.io/files/Shad_Presentation.pdf)\]
- -->
- <!--
-* <b>[Identifying Precipitation Regimes in China Using Model-based Clustering of Spatial Functional data](http://haozhestat.github.io/files/CI2016_Proceeding_Paper.pdf)</b><br>
-<b>Haozhe Zhang</b>, Zhengyuan Zhu, and Shuiqing Yin. <i> <br>
-In Proceedings of the Sixth International Workshop on Climate Informatics, 117–120, 2016.</i><br>
-\[[pdf](https://opensky.ucar.edu/islandora/object/technotes:543)\]
-\[[slides](https://www2.cisl.ucar.edu/sites/default/files/CI_Slides_Zhang_Haozhe.pdf)\]
-\[[video](https://www.youtube.com/watch?v=aYRBfoA15V8)\]
--->
-<!--
-* <b>[Air Quality Assessment Report I: Statistical Analysis of Beijing](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)</b><br>
-Xuan Liang, Tao Zou, Bin Guo, Shuo Li, <b>Haozhe Zhang</b>, Shuyi Zhang, Hui Huang, and Song Xi Chen. <i> <br>
-Technical Report (in Chinese), 2015.</i> <br>
-\[[Chinese Version](http://haozhestat.github.io/files/AirQualityAssessment_201503.pdf)\]
-\[[dataset](http://songxichen.gsm.pku.edu.cn/index.php/Publication/view/id/9)\]
-\[[news](http://news.sina.com.cn/zl/zatan/2015-11-12/11214914.shtml)\]
--->
-
 
 ## Thesis:
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>

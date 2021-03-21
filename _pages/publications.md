@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Selected Publications:"
+title: "Selected Publications"
 author_profile: true
 ---
 
@@ -58,7 +58,7 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
 
-## Thesis:
+## Thesis
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
 <b>Haozhe Zhang</b>.<br>
 <i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>

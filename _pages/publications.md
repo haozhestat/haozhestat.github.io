@@ -1,8 +1,16 @@
 ---
 permalink: /publications/
-title: "Selected Publications"
+title: "Thesis"
 author_profile: true
 ---
+
+
+* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
+<b>Haozhe Zhang</b>.<br>
+<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
+\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](http://haozhestat.github.io/files/Haozhe_Thesis.pdf)\]
+
+## Selected Publications:
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
 <i> Journal of Business & Economic Statistics, Under Revision.</i><br>
@@ -55,10 +63,4 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[dataset](http://haozhestat.github.io/files/Data_Namibia.zip)\]
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
-
-## Thesis:
-* <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>
-<b>Haozhe Zhang</b>.<br>
-<i> Ph.D. Dissertation, Iowa State University Digital Repository, 2019. 17626.</i><br>
-\[[abstract](https://lib.dr.iastate.edu/etd/17626/)\]\[[pdf](http://haozhestat.github.io/files/Haozhe_Thesis.pdf)\]
 

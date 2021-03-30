@@ -25,7 +25,7 @@ redirect_from:
 *  Click to view my [resume](https://haozhestat.github.io/files/CV_Haozhe.pdf).
 
 # News
-* March 8, 2021. Our OSS utilities library *[confidential-ml-utils 0.8.1](https://github.com/Azure/confidential-ml-utils#:~:text=README.md-,Confidential%20ML%20Utilities,they%20provide%20to%20their%20customers.)* for training machine learning models without seeing training data is publicly available in github.
+* March 8, 2021. Our OSS utilities library *[confidential-ml-utils 0.8.1](https://github.com/Azure/confidential-ml-utils#:~:text=README.md-,Confidential%20ML%20Utilities,they%20provide%20to%20their%20customers.)* for training machine learning models without seeing training data in Azure is publicly available in github.
 * December 6, 2020. The Python library *[FLAML](https://github.com/microsoft/FLAML)* for fast and lightweight automated machine learning tookit has been released to public on *[PyPI](https://pypi.org/project/FLAML)*.
 * April 15, 2020. Our paper "Modeling and Regionalization of China's PM2.5 Using Spatial-Functional Mixture Model" was accepted by *[Journal of American Statistical Association](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1764363?journalCode=uasa20#.XrSZ_MhKg2t)*.
 * December 8-14, 2019. I attended *[NeurIPS 2019](https://nips.cc/)* in Vancouver, Canada.

@@ -22,6 +22,7 @@ redirect_from:
 * I am a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
 * I received Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013), [Liberty Mutual](http://haozhestat.github.io/files/IMG_1983.JPG) (2017) and [eBay advertising](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018) as summer intern.
 * My research interests lie on the interpretation, diagnostics, inference, and automation for machine learning, applied data science, large-scale online experimentation, and functional data analysis.
+*  Please click to view my [resume](http://haozhestat.github.io/files/CV_Haozhe.pdf) (updated on 3/29/2021).
 
 # News
 * December 6, 2020. The Python library *[FLAML](https://github.com/microsoft/FLAML)* for fast and lightweight automated machine learning tookit has been released to public on *[PyPI](https://pypi.org/project/FLAML)*.

@@ -8,16 +8,15 @@ main:
     url: /publications/
   
 #  - title: "Teaching"
-#   url: /teaching/ 
-
-  - title: "Talks"
-    url: /talks/       
+#   url: /teaching/     
     
   - title: "Awards"
     url: /awards/
   
   - title: "Service"
     url: /markdown/
+  - title: "Talks"
+    url: /talks/   
   
 #  - title: "Photos"
 #    url: /year-archive/

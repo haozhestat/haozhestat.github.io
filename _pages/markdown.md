@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-* Reviewer for *KDD'20*, *Statistica Sinicia*, *IEEE Transactions on Knowledge and Data Engineering*, *Stat*, *PLoS One*, *MSJAR* and *Canadian Journal of Statistics*.
+* Reviewer for *KDD'20*, *IEEE Transactions on Knowledge and Data Engineering*, *Statistica Sinicia*, *Canadian Journal of Statistics*, *Computational Statistics and Data Analysis*, *Stat*, and*PLoS One*.
 * [Program Committee Member](https://www.dropbox.com/s/iksr4m501vf0usq/ghc19committeecertificate_53.pdf?dl=0), Artificial Intelligence Track, *Grace Hopper Celebration of Women in Computing* (2019-2021).
 * Proposal Reviewer, Fall 2019 MLADS Conference (Microsoft machinel learning internal conference). 
 * Session Chair, *Spatial and Spatiotemporal Modeling in Climate and Meteorology*, Section on Statistics and the Environment, Joint Statistical Meetings 2019.

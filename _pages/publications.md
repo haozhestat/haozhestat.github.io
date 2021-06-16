@@ -4,16 +4,12 @@ title: "Selected Publications"
 author_profile: true
 ---
 
-* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://arxiv.org/abs/2006.13489)</b> <br>
+* <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
 Accepted by <i> Journal of Business & Economic Statistics.</i><br>
 \[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]
-
-* <b>[Behavioral Metrics and Hierarchical Movement Modeling Reveal Personality Axes in Neonate Garter Snakes]()</b> <br>
-Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
-<i> Behavioural Ecology & Sociobiology, Under Review. </i><br>
 
 * <b>[Modeling and Regionalization of China's PM$_{2.5}$ Using Spatial-Functional Mixture Model](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)</b><br>
 Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
@@ -57,6 +53,9 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
+* <b>[Behavioral Metrics and Hierarchical Movement Modeling Reveal Personality Axes in Neonate Garter Snakes]()</b> <br>
+Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
+<i> Behavioural Ecology & Sociobiology, Under Review. </i><br>
 
 ## Thesis
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>

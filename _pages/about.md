@@ -22,7 +22,6 @@ redirect_from:
 * I am a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/), focusing on the research and productionization of AutoML, confidential ML and federated learning, with applications in NLP.
 * I received Ph.D. in Statistics at [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018), [Liberty Mutual](http://haozhestat.github.io/files/IMG_1983.JPG) (2017) and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013) as research intern.
 * My research interests lie on the automation, interpretation, inference, infrastructure and compliance for AI & machine learning, and large-scale online experimentation.
-*  Click to view my [resume](https://haozhestat.github.io/files/Resume-HaozheZhang-July2021.pdf).
 
 # News
 * June 1, 2021. Our Python library *[shrike](https://github.com/azure/shrike)* that aids compliant experiments in the Azure Machine Learning Platform was released in github.

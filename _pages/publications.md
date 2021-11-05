@@ -53,9 +53,9 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 \[[demo](http://haozhestat.github.io/files/image_with_centers.jpg)\]
 \[[news](https://www.sciencedaily.com/releases/2015/04/150407084848.htm)\]
 
-* <b>[Behavioral Metrics and Hierarchical Movement Modeling Reveal Personality Axes in Neonate Garter Snakes]()</b> <br>
+* <b>[Movement modeling and patterns of within- and among-individual behavioral variation across time scales in neonate garter snakes (Thamnophis elegans)]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
-<i> Behavioural Ecology & Sociobiology. </i><br>
+Accepted by <i> Behavioural Ecology & Sociobiology. </i><br>
 
 ## Thesis
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>

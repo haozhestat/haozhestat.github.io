@@ -25,6 +25,7 @@ redirect_from:
 * My research interests lie on the automation, interpretation, inference, infrastructure and compliance for AI & machine learning, and large-scale online experimentation.
 
 # News
+* October 8, 2023. Two papers have been accepted to the Findings of EMNLP 2023.
 * June 1, 2021. Our Python library *[shrike](https://github.com/azure/shrike)* that aids compliant experiments in the Azure Machine Learning Platform was released in github.
 * May 27, 2021. My paper "Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency" was published in *[Journal of Business & Economic Statistics](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)*.
 * December 6, 2020. The Python library *[FLAML](https://github.com/microsoft/FLAML)* for fast and lightweight automated machine learning tookit has been released to public on *[PyPI](https://pypi.org/project/FLAML)*.

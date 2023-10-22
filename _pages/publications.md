@@ -6,7 +6,7 @@ author_profile: true
 
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
-Accepted by <i> Journal of Business & Economic Statistics.</i><br>
+<i> Journal of Business & Economic Statistics, 40(4): 1523-1537, 2022.</i><br>
 \[[arxiv](https://arxiv.org/pdf/2006.13489.pdf)\]
 \[[code](https://github.com/haozhestat/spatialFDA)\]
 \[[dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)\]

@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Selected Publications"
 author_profile: true
 ---
+* <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
+Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
+<i> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP’23).</i><br>
+
+* <b> [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling]()</b> <br>
+Ruoxue Ma, Jiarong Xu, Xinnong Zhang, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
+<i> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP’23).</i><br>
 
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>
@@ -55,7 +62,7 @@ Proceedings of the Royal Society A, 471(2182), 2015.</i> <br>
 
 * <b>[Movement modeling and patterns of within- and among-individual behavioral variation across time scales in neonate garter snakes (Thamnophis elegans)]()</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
-Accepted by <i> Behavioural Ecology & Sociobiology. </i><br>
+<i> Behavioural Ecology & Sociobiology, 75, 162 (2021). </i><br>
 
 ## Thesis
 * <b>[Topics in Functional Data Analysis and Machine Learning Predictive Inference](https://lib.dr.iastate.edu/etd/17626/)</b><br>

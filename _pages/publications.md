@@ -5,11 +5,11 @@ author_profile: true
 ---
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
-<i> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP’23).</i><br>
+<i> EMNLP 2023 Findings.</i><br>
 
 * <b> [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling]()</b> <br>
 Ruoxue Ma, Jiarong Xu, Xinnong Zhang, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
-<i> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP’23).</i><br>
+<i> EMNLP 2023 Findings.</i><br>
 
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>

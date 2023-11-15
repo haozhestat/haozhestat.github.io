@@ -3,6 +3,11 @@ permalink: /publications/
 title: "Selected Publications"
 author_profile: true
 ---
+* <b> [A Unified Graph Pre-Training Framework for Community and User Co-Modeling]()</b> <br>
+Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
+Xinnong Zhang, Jiarong Xu, Ruoxue Ma, <b>Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, zhongyu wei. <br>
+<i> Under Review.</i><br>
+
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
 <i> EMNLP 2023 Findings.</i><br>

@@ -3,6 +3,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **Future Star**, Huawei Shanghai Research Center, 2023.
 * **Outstanding Engineer**, Huawei Shanghai Research Center, 2023.
 * **Student & Early Career Travel Award**, 2019. Travel fund for presenting an e-poster in the 2019 Symposium on Data Science and Statistics in Bellevue, Washington.
 * NSF Travel Grant for attending the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA on June 2019.

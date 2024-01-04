@@ -11,11 +11,13 @@ Xinnong Zhang, Jiarong Xu, Ruoxue Ma, <b>Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, 
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
 In <i> Findings of the Association for Computational Linguistics: EMNLP 2023 </i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.565.pdf)\]
+\[[link](https://aclanthology.org/2023.findings-emnlp.565/)\]
 
 * <b> [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling]()</b> <br>
 Ruoxue Ma, Jiarong Xu, Xinnong Zhang, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
 In <i> Findings of the Association for Computational Linguistics: EMNLP 2023 </i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.1003.pdf)\]
+\[[link](https://aclanthology.org/2023.findings-emnlp.1003/)\]
 
 * <b> [Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)</b> <br>
 <b> Haozhe Zhang</b> and Yehua Li. <br>

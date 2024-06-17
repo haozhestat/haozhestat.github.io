@@ -3,9 +3,20 @@ permalink: /publications/
 title: "Selected Publications"
 author_profile: true
 ---
-* <b> [A Unified Graph Pre-Training Framework for Community and User Co-Modeling]()</b> <br>
-Xinnong Zhang, Jiarong Xu, Ruoxue Ma, <b>Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, zhongyu wei. <br>
-<i> Under Review.</i><br>
+
+<!--
+* <b> [HYTALM: Boosting Table Reasoning via Hypergraph-enhanced Tabular Large Language Models]()</b> <br>
+Chao Ye, Liyao Li, Wentao Ye, Yifei Sun, <b>Haozhe Zhang</b>, Haobo Wang, Gang Chen, Junbo Zhao. <br>
+<i> Submitted to EMNLP 2024.</i><br>
+
+* <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection]()</b> <br>
+Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, Junbo Zhao. <br>
+<i> Submitted to EMNLP 2024.</i><br>
+
+* <b> [Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization]()</b> <br>
+Heshen Zhan, Congliang Chen, Tian Ding, Ziniu Li, <b>Haozhe Zhang</b>, Ruoyu Sun. <br>
+<i> Submitted to EMNLP 2024.</i><br>
+-->
 
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>

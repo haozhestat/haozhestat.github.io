@@ -19,12 +19,13 @@ redirect_from:
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 -->
-* I am working at Huawei as an AI applied researcher.
-* During 2019 - 2022, I was a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/), focusing on the research and productionization of AutoML and privacy-preserving ML.
-* I received Ph.D. in Statistics at [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018), [Liberty Mutual](http://haozhestat.github.io/files/IMG_1983.JPG) (2017) and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013) as research intern.
-* My research interests lie on the automation, interpretation, inference, infrastructure and compliance for AI & machine learning.
+* I am working at Huawei as an AI applied researcher on the construction and application of domain-specific LLM.
+* During 2019 - 2022, I was a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/), focusing on the research and productionization of AutoML and privacy-preserving AI.
+* I received Ph.D. in Statistics at [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018), Liberty Mutual (2017) and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013) as research intern.
+* My research interests lie on the automation, interpretation, inference, infrastructure and application for AI & machine learning.
 
 # News
+* June 15, 2024. Three papers have been submitted to EMNLP 2024.
 * October 8, 2023. Two papers have been accepted to the Findings of EMNLP 2023.
 * June 1, 2021. Our Python library *[shrike](https://github.com/azure/shrike)* that aids compliant experiments in the Azure Machine Learning Platform was released in github.
 * May 27, 2021. My paper "Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency" was published in *[Journal of Business & Economic Statistics](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)*.

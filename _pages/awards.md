@@ -3,6 +3,8 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **Innovation & Techonological Breakthrough Award**, Huawei, 2024.
+* **Thought Firestone Award**, Huawei, 2024.
 * **Future Star**, Huawei Shanghai Research Center, 2023.
 * **Outstanding Engineer**, Huawei Shanghai Research Center, 2023.
 * **Student & Early Career Travel Award**, 2019. Travel fund for presenting an e-poster in the 2019 Symposium on Data Science and Statistics in Bellevue, Washington.

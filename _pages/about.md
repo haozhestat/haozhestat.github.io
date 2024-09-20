@@ -25,8 +25,8 @@ redirect_from:
 * My research interests lie on the automation, interpretation, inference, infrastructure and application for AI & machine learning.
 
 # News
-* June 15, 2024. Two papers have been submitted to EMNLP 2024.
-* October 30, 2023. Our AI product "*[AskO3](https://asko3.o3community.huawei.com/asko3)*" was released together with the [O3 Community](https://www.huawei.com/en/news/2023/9/o3community-release) at HUAWEI CONNECT 2023 in Shanghai, China.
+* September 20, 2024. One paper about LLM hallucination detection has been accepted by EMNLP 2024 Main.
+* October 30, 2023. Our AI product "*[AskO3](https://asko3.o3community.huawei.com/asko3)*" was released together with the [O3 Community](https://www.huawei.com/en/news/2023/9/o3community-release) at Huawei Connect 2023 in Shanghai, China.
 * October 8, 2023. Two papers have been accepted to the Findings of EMNLP 2023.
 * June 1, 2021. Our Python library *[shrike](https://github.com/azure/shrike)* that aids compliant experiments in the Azure Machine Learning Platform was released in github.
 * May 27, 2021. My paper "Unified Principal Component Analysis for Sparse and Dense Functional Data under Spatial Dependency" was published in *[Journal of Business & Economic Statistics](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1938085)*.

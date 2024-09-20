@@ -4,15 +4,9 @@ title: "Selected Publications"
 author_profile: true
 ---
 
-<!--
-* <b> [HYTALM: Boosting Table Reasoning via Hypergraph-enhanced Tabular Large Language Models]()</b> <br>
-Chao Ye, Liyao Li, Wentao Ye, Yifei Sun, <b>Haozhe Zhang</b>, Haobo Wang, Gang Chen, Junbo Zhao. <br>
-<i> Submitted to EMNLP 2024.</i><br>
-
 * <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection]()</b> <br>
 Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, Junbo Zhao. <br>
-<i> Accepted by EMNLP 2024.</i><br>
--->
+Accepted by <i> EMNLP 2024.</i><br>
 
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>

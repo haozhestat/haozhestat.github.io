@@ -10,13 +10,13 @@ Accepted by <i> EMNLP 2024.</i><br>
 
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
-In <i> Findings of the Association for Computational Linguistics: EMNLP 2023 </i><br>
+<i> EMNLP Findings 2023 </i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.565.pdf)\]
 \[[link](https://aclanthology.org/2023.findings-emnlp.565/)\]
 
 * <b> [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling]()</b> <br>
 Ruoxue Ma, Jiarong Xu, Xinnong Zhang, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
-In <i> Findings of the Association for Computational Linguistics: EMNLP 2023 </i><br>
+<i> EMNLP Findings 2023 </i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.1003.pdf)\]
 \[[link](https://aclanthology.org/2023.findings-emnlp.1003/)\]
 

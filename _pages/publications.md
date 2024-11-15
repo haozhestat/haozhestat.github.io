@@ -11,7 +11,9 @@ Submitted to <i> ICLR 2025.</i><br>
 
 * <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection]()</b> <br>
 Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, Junbo Zhao. <br>
-Accepted by <i> EMNLP 2024.</i><br>
+<i> EMNLP 2024</i><br>
+ \[[pdf](https://aclanthology.org/2023.findings-emnlp.565.pdf)\]
+\[[link](https://aclanthology.org/2024.emnlp-main.116)\]
 
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>

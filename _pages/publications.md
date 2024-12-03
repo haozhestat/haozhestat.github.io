@@ -10,10 +10,14 @@ Submitted to <i> ICLR 2025.</i><br>
 -->
 
 * <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection]()</b> <br>
-Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, Junbo Zhao. <br>
+Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, and Junbo Zhao. <br>
 <i> EMNLP 2024</i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.565.pdf)\]
 \[[link](https://aclanthology.org/2024.emnlp-main.116)\]
+
+* <b> [Pretrained Large Models in Telecommunications: A Comprehensive Survey of Technologies, Applications, and Challenges]()</b> <br>
+Dun Li, Huan Wang, Ruiguan Lin, Yan-Fu Li, Jiantao Ye, Dandan Miao, Ke Lin and <b>Haozhe Zhang</b>. <br>
+Accepted by <i> International Conference on Progress in Informatics and Computing (PIC-2024)</i><br>
 
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>

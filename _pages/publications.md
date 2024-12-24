@@ -17,7 +17,7 @@ Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, 
 
 * <b> [Pretrained Large Models in Telecommunications: A Comprehensive Survey of Technologies, Applications, and Challenges]()</b> <br>
 Dun Li, Huan Wang, Ruiguan Lin, Yan-Fu Li, Jiantao Ye, Dandan Miao, Ke Lin and <b>Haozhe Zhang</b>. <br>
-Accepted by <i> International Conference on Progress in Informatics and Computing (PIC-2024)</i><br>
+<i> 2024 IEEE International Conference on Progress in Informatics and Computing (PIC-2024)</i><br>
 
 * <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>

@@ -4,7 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 * **Innovation & Techonological Breakthrough Award**, Huawei, 2025.
-* * **Innovation & Techonological Breakthrough Award**, Huawei, 2024.
+* **Innovation & Techonological Breakthrough Award**, Huawei, 2024.
 * **Thought Firestone Award**, Huawei, 2024.
 * **Future Star**, Huawei Shanghai Research Center, 2023.
 * **Outstanding Engineer**, Huawei Shanghai Research Center, 2023.

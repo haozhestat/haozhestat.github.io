@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "Shanghai, China",
+    31.2304,
+    121.4737
+  ],
+  [
+    "Hangzhou, Zhejiang",
+    30.2741,
+    120.1552
+  ],
+  [
     "Chengdu, Sichuan",
     30.5723,
     104.0665

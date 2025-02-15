@@ -6,8 +6,8 @@ var addressPoints = [
   ],
   [
     "Xi'an, Shanxi",
-    37.8734,
-    112.5627
+    34.2658,
+    108.9541
   ],
   [
     "Shenzhen, Guangdong",

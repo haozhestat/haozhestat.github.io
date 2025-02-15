@@ -1,5 +1,30 @@
 var addressPoints = [
   [
+    "Chengdu, Sichuan",
+    30.5723,
+    104.0665
+  ],
+  [
+    "Xi'an, Shanxi",
+    37.8734,
+    112.5627
+  ],
+  [
+    "Shenzhen, Guangdong",
+    22.5429,
+    114.0596
+  ],
+  [
+    "Barcelona, Spain",
+    41.3874,
+    2.1686
+  ],
+  [
+    "Paris, France",
+    48.8575, 
+    2.3514
+  ],
+  [
     "Menlo Park, CA",
     37.480907, 
     -122.170717

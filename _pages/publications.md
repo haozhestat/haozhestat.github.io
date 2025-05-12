@@ -3,11 +3,12 @@ permalink: /publications/
 title: "Selected Publications"
 author_profile: true
 ---
-<!--
+
 * <b> [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning]()</b> <br>
 Yupeng Chen, Senmiao Wang, Zhihang Lin, Yushun Zhang, <b>Haozhe Zhang</b>, Weijian Sun, Tian Ding, Ruoyu Sun. <br>
-Submitted to <i> ICLR 2025.</i><br>
--->
+<i> arXiv:2407.20999v3</i><br>
+\[[pdf](https://arxiv.org/pdf/2407.20999v3)\]
+\[[link](https://arxiv.org/abs/2407.20999v3)\]
 
 * <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection]()</b> <br>
 Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, and Junbo Zhao. <br>

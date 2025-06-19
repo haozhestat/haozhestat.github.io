@@ -8,6 +8,7 @@ author_profile: true
 * **Thought Firestone Award**, Huawei, 2024.
 * **Future Star**, Huawei Shanghai Research Center, 2023.
 * **Outstanding Engineer**, Huawei Shanghai Research Center, 2023.
+* **Top Minds Program (入选华为天才少年计划）**, Huawei, 2024.
 * **Student & Early Career Travel Award**, 2019. Travel fund for presenting an e-poster in the 2019 Symposium on Data Science and Statistics in Bellevue, Washington.
 * NSF Travel Grant for attending the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA on June 2019.
 * **SAMSI Travel Award**, 2018. Travel fund for presenting a paper in the Symposium on Data Science and Statistics in Reston, Virginia.

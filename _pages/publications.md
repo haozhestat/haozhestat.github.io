@@ -10,6 +10,18 @@ author_profile: true
 <i> arXiv:xxxxx.xxx</i><br>
 \[[pdf](https://arxiv.org/pdf/xxxxx.xxx)\]
 \[[link](https://arxiv.org/abs/xxxxx.xxx)\]
+
+* <b> [DeepJSON: A Comprehensive Benchmark for Evaluating Structured JSON Extraction in Large Language Models]()</b> 
+<br>Jing Li, Zhicheng Zhou, Zhijie Sun, Suming Qiu, Junjie Huang, Linyuan Qiu, Binfan Zheng, <b>Haozhe Zhang</b>, Weijian Sun, jiantao ye, Hanting Chen, Yuchuan Tian, Rongqian Zhao, Xin Chen. <br>
+<i> arXiv:xxxxx.xxx</i><br>
+\[[pdf](https://arxiv.org/pdf/xxxxx.xxx)\]
+\[[link](https://arxiv.org/abs/xxxxx.xxx)\]
+
+* <b> [HES-SQL: Hybrid Reasoning for Efficient Text-to-SQL with Strucutural Skeleton Guidance]()</b> 
+<br>Jing Li, Suming Qiu, Zhijie Sun, Zhicheng Zhou, Junjie Huang, Linyuan Qiu, Binfan Zheng, Hanting Chen, Yuchuan Tian, <b>Haozhe Zhang</b>, Rongqian Zhao, Weijian Sun, Xin Chen. <br>
+<i> arXiv:xxxxx.xxx</i><br>
+\[[pdf](https://arxiv.org/pdf/xxxxx.xxx)\]
+\[[link](https://arxiv.org/abs/xxxxx.xxx)\]
 -->
 
 * <b> [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning]()</b> <br>

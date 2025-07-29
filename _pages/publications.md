@@ -12,7 +12,7 @@ author_profile: true
 \[[link](https://arxiv.org/abs/xxxxx.xxx)\]
 
 * <b> [DeepJSON: A Comprehensive Benchmark for Evaluating Structured JSON Extraction in Large Language Models]()</b> 
-<br>Jing Li, Zhicheng Zhou, Zhijie Sun, Suming Qiu, Junjie Huang, Linyuan Qiu, Binfan Zheng, <b>Haozhe Zhang</b>, Weijian Sun, jiantao ye, Hanting Chen, Yuchuan Tian, Rongqian Zhao, Xin Chen. <br>
+<br>Jing Li, Zhicheng Zhou, Zhijie Sun, Suming Qiu, Junjie Huang, Linyuan Qiu, Binfan Zheng, <b>Haozhe Zhang</b>, Weijian Sun, Jiantao Ye, Hanting Chen, Yuchuan Tian, Rongqian Zhao, Xin Chen. <br>
 <i> arXiv:xxxxx.xxx</i><br>
 \[[pdf](https://arxiv.org/pdf/xxxxx.xxx)\]
 \[[link](https://arxiv.org/abs/xxxxx.xxx)\]
@@ -66,7 +66,7 @@ Decai Liang, <b>Haozhe Zhang</b>, Xiaohui Chang, and Hui Huang.<br>
  \[[pdf](https://www.researchgate.net/profile/Xiaohui_Chang/publication/340663289_Modeling_and_Regionalization_of_China's_PM_25_Using_Spatial-Functional_Mixture_Models/links/5e97e6c0a6fdcca7891c2d23/Modeling-and-Regionalization-of-Chinas-PM-25-Using-Spatial-Functional-Mixture-Models.pdf)\]
  \[[link](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1764363#.XrLsFxNKjOQ)\]
 
-* <b>[Movement modeling and patterns of within- and among-individual behavioral variation across time scales in neonate garter snakes (Thamnophis elegans)]()</b> <br>
+* <b>[Movement modeling and patterns of within- and among-individual behavioral variation across time scales in neonate garter snakes (Thamnophis elegans)](https://link.springer.com/article/10.1007/s00265-021-03099-w)</b> <br>
 Eric Gangloff, Vianey Leos-Barajas, Gabriel Demuth, <b>Haozhe Zhang</b>, Clint Kelly, Anne Bronikowski. <br>
 <i> Behavioural Ecology & Sociobiology, 75, 162 (2021). </i><br>
 

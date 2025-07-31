@@ -25,29 +25,31 @@ author_profile: true
 \[[link](https://arxiv.org/abs/2507.21974)\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleLogs)\]
 
-* <b> [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning]()</b> <br>
+* <b> [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999v3)</b> <br>
 Yupeng Chen, Senmiao Wang, Zhihang Lin, Yushun Zhang, <b>Haozhe Zhang</b>, Weijian Sun, Tian Ding, Ruoyu Sun. <br>
 <i> arXiv:2407.20999v3</i><br>
 \[[pdf](https://arxiv.org/pdf/2407.20999v3)\]
 \[[link](https://arxiv.org/abs/2407.20999v3)\]
 
-* <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection]()</b> <br>
+* <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection](https://aclanthology.org/2024.emnlp-main.116)</b> <br>
 Xiaomeng Hu, Yiming Zhang, Ru Peng, <b>Haozhe Zhang</b>, Chenwei Wu, Gang Chen, and Junbo Zhao. <br>
 <i> EMNLP 2024</i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.565.pdf)\]
 \[[link](https://aclanthology.org/2024.emnlp-main.116)\]
 
-* <b> [Pretrained Large Models in Telecommunications: A Comprehensive Survey of Technologies, Applications, and Challenges]()</b> <br>
+* <b> [Pretrained Large Models in Telecommunications: A Comprehensive Survey of Technologies, Applications, and Challenges](https://ieeexplore.ieee.org/abstract/document/10892745)</b> <br>
 Dun Li, Huan Wang, Ruiguan Lin, Yan-Fu Li, Jiantao Ye, Dandan Miao, Ke Lin and <b>Haozhe Zhang</b>. <br>
 <i> 2024 IEEE International Conference on Progress in Informatics and Computing (PIC-2024)</i><br>
+ \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10892745)\]
+\[[link](https://ieeexplore.ieee.org/abstract/document/10892745)\]
 
-* <b> [Unleashing the Power of Language Models in Text-Attributed Graph]()</b> <br>
+* <b> [Unleashing the Power of Language Models in Text-Attributed Graph](https://aclanthology.org/2023.findings-emnlp.565/)</b> <br>
 Haoyu Kuang, Jiarong Xu, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
 <i> EMNLP Findings 2023 </i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.565.pdf)\]
 \[[link](https://aclanthology.org/2023.findings-emnlp.565/)\]
 
-* <b> [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling]()</b> <br>
+* <b> [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling](https://aclanthology.org/2023.findings-emnlp.1003/)</b> <br>
 Ruoxue Ma, Jiarong Xu, Xinnong Zhang, <b> Haozhe Zhang</b>, Zuyu Zhao, Qi Zhang, Xuanjing Huang, and Zhongyu Wei. <br>
 <i> EMNLP Findings 2023 </i><br>
  \[[pdf](https://aclanthology.org/2023.findings-emnlp.1003.pdf)\]

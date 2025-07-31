@@ -21,7 +21,7 @@ author_profile: true
 * <b> [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)</b> 
 <br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Yibin Kang, <b>Haozhe Zhang</b>, Merouane Debbah, Fadhel Ayed. <br>
 <i> arXiv:507.21974</i><br>
-\[[pdf](https://arxiv.org/pdf/507.21974)\]
+\[[pdf](https://arxiv.org/pdf/2507.21974)\]
 \[[link](https://arxiv.org/abs/2507.21974)\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleLogs)\]
 

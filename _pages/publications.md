@@ -28,7 +28,7 @@ author_profile: true
 * <b> [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999v3)</b> <br>
 Yupeng Chen, Senmiao Wang, Zhihang Lin, Yushun Zhang, <b>Haozhe Zhang</b>, Weijian Sun, Tian Ding, Ruoyu Sun. <br>
 Accepted by <i> Transactions on Machine Learning Research</i><br>
-\[[pdf](https://arxiv.org/pdf/2407.20999v3)\]
+\[[pdf](https://openreview.net/pdf?id=T1qXIDn9my)\]
 \[[link](https://arxiv.org/abs/2407.20999v3)\]
 
 * <b> [Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection](https://aclanthology.org/2024.emnlp-main.116)</b> <br>

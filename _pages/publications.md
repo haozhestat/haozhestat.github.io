@@ -27,7 +27,7 @@ author_profile: true
 
 * <b> [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999v3)</b> <br>
 Yupeng Chen, Senmiao Wang, Zhihang Lin, Yushun Zhang, <b>Haozhe Zhang</b>, Weijian Sun, Tian Ding, Ruoyu Sun. <br>
-Accepted by <i> Transactions on Machine Learning Research</i><br>
+<i> Transactions on Machine Learning Research, 2835-8856, 2025</i><br>
 \[[pdf](https://openreview.net/pdf?id=T1qXIDn9my)\]
 \[[link](https://arxiv.org/abs/2407.20999v3)\]
 

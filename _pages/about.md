@@ -25,7 +25,7 @@ redirect_from:
 * My research interests lie on the automation, interpretation, inference, infrastructure and application for AI & machine learning.
 
 # News
-* September 29, 2025. Our paper on momentum-filtered optimizer for mitigating forgetting in LLM fine-tuning has been accepted by TMLR.
+* October 13, 2025. Our paper about [Momentum-filtered Optimizer for Mitigating LLM Forgetting during SFT](https://openreview.net/pdf?id=T1qXIDn9my) has been accepted by TMLR.
 * July 30, 2025. We recently released [Telelogs](https://huggingface.co/datasets/netop/TeleLogs), a benchmark for Large Language Models in telecom logs analysis, by collaborating with the [Netop Team](https://huggingface.co/netop) in Huawei Paris Research Center. The paper  "[Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)" that introduces this dataset and our research work on 5G network RCA is available in arxiv.
 * September 20, 2024. Our paper about LLM hallucination detection has been accepted by EMNLP 2024 Main.
 * February 5, 2024. It is my great honor to be on the [Huaweier's Story of the Year](https://mp.weixin.qq.com/s/-dfrKbuwF-W7ZG8JYOFnMQ).

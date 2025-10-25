@@ -3,6 +3,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **为先奖（研究领域年度个人奖）**, Huawei, 2025.
 * **Innovation & Techonological Breakthrough Award**, Huawei, 2025.
 * **Innovation & Techonological Breakthrough Award**, Huawei, 2024.
 * **Thought Firestone Award**, Huawei, 2024.

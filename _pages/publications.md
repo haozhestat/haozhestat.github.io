@@ -4,19 +4,10 @@ title: "Selected Publications"
 author_profile: true
 ---
 
-<!--
-* <b> [DeepJSON: A Comprehensive Benchmark for Evaluating Structured JSON Extraction in Large Language Models]()</b> 
-<br>Jing Li, Zhicheng Zhou, Zhijie Sun, Suming Qiu, Junjie Huang, Linyuan Qiu, Binfan Zheng, <b>Haozhe Zhang</b>, Weijian Sun, Jiantao Ye, Hanting Chen, Yuchuan Tian, Rongqian Zhao, Xin Chen. <br>
-<i> arXiv:xxxxx.xxx</i><br>
-\[[pdf](https://arxiv.org/pdf/xxxxx.xxx)\]
-\[[link](https://arxiv.org/abs/xxxxx.xxx)\]
 
-* <b> [HES-SQL: Hybrid Reasoning for Efficient Text-to-SQL with Strucutural Skeleton Guidance]()</b> 
-<br>Jing Li, Suming Qiu, Zhijie Sun, Zhicheng Zhou, Junjie Huang, Linyuan Qiu, Binfan Zheng, Hanting Chen, Yuchuan Tian, <b>Haozhe Zhang</b>, Rongqian Zhao, Weijian Sun, Xin Chen. <br>
-<i> arXiv:xxxxx.xxx</i><br>
-\[[pdf](https://arxiv.org/pdf/xxxxx.xxx)\]
-\[[link](https://arxiv.org/abs/xxxxx.xxx)\]
--->
+* <b> [TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation]()</b> 
+<br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
+<i> Under Review </i><br>
 
 * <b> [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)</b> 
 <br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Yibin Kang, <b>Haozhe Zhang</b>, Merouane Debbah, Fadhel Ayed. <br>

@@ -27,6 +27,7 @@ redirect_from:
 # News
 * October 20, 2025. Our team released [GSMA Open-Telco LLM Benchmarks 2.0](https://huggingface.co/blog/otellm/gsma-benchmarks-02), the first comprehensive benchmark to evaluate large language models on real-world telecom tasks—from intent-to-configuration and troubleshooting to standards interpretation and network troubleshooting.
 * October 13, 2025. Our paper about [Momentum-filtered Optimizer for Mitigating LLM Forgetting during SFT](https://openreview.net/pdf?id=T1qXIDn9my) has been accepted by TMLR.
+* August 31, 2025. I attended the 2025 ICPC World Finals in Baku, Azerbaijan as an expert representative of Huawei.
 * July 30, 2025. We recently released [Telelogs](https://huggingface.co/datasets/netop/TeleLogs), a benchmark for Large Language Models in telecom logs analysis, by collaborating with the [Netop Team](https://huggingface.co/netop) in Huawei Paris Research Center. The paper  "[Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)" that introduces this dataset and our research work on 5G network RCA is available in arxiv.
 * September 20, 2024. Our paper about LLM hallucination detection has been accepted by EMNLP 2024 Main.
 * February 5, 2024. It is my great honor to be on the [Huaweier's Story of the Year](https://mp.weixin.qq.com/s/-dfrKbuwF-W7ZG8JYOFnMQ).

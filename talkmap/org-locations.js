@@ -143,5 +143,10 @@ var addressPoints = [
     "San Jose, CA",
     37.296933,
     -121.9574974
+  ],
+  [
+    "Baku, Azerbaijan",
+    40.4093,
+    49.8671
   ]
 ];

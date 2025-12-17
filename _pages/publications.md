@@ -7,7 +7,7 @@ author_profile: true
 
 * <b> [TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation]()</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
-Under Review for <i> IEEE Vehicular Technology Magazine </i><br>
+Under Review for <i> IEEE Communications Standards Magazine </i><br>
 \[[arxiv]()\]
 \[[link]()\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleTables)\]

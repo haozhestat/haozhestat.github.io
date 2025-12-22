@@ -14,7 +14,7 @@ Under Review for <i> IEEE Network Magazine </i><br>
 
 * <b> [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)</b> 
 <br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Yibin Kang, <b>Haozhe Zhang</b>, Merouane Debbah, Fadhel Ayed. <br>
-Under Review for <i>IEEE International Conference on Machine Learning for Communication and Networking</i><br>
+Under Review for <i>2026 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) </i><br>
 \[[arxiv](https://arxiv.org/pdf/2507.21974)\]
 \[[link](https://arxiv.org/abs/2507.21974)\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleLogs)\]

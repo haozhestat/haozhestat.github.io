@@ -8,7 +8,7 @@ author_profile: true
 * **[Innovation & Techonological Breakthrough Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCHNGc3twTqTLo0_fuj0K25Afvho2WyflJcmGzXXg2R52c?e=EFXklj)**, Huawei, 2024.
 * **[Thought Firestone Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCpl-S4JHiGS5U5ShkeA5s3AeX8XIf4zu9lkH9eUErCyms?e=y4udRQ)**, Huawei, 2024.
 * **[Future Star](https://1drv.ms/b/c/f053ed24f7f64c87/IQBoB-rWVlNXSo_pTq_-NEjNAZgM-ASth1Qj2LHxo1BVWho?e=tl2wZp)**, Huawei Shanghai Research Center, 2023.
-* **Outstanding Engineer**, Huawei Shanghai Research Center, 2023.
+* **[Outstanding Engineer](https://1drv.ms/b/c/f053ed24f7f64c87/IQAfRASr8cwGT77UFPfMfd-CAVn7vO-bHZeVj4aUOoP4QDk?e=T8y6RW)**, Huawei Shanghai Research Center, 2023.
 * **Top Minds Program (入选华为天才少年计划）**, Huawei GTS, 2022.
 * **Student & Early Career Travel Award**, 2019. Travel fund for presenting an e-poster in the 2019 Symposium on Data Science and Statistics in Bellevue, Washington.
 * NSF Travel Grant for attending the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA on June 2019.

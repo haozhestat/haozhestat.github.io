@@ -8,8 +8,8 @@ author_profile: true
 * <b> [TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation]()</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
 Under Review for <i> IEEE Network Magazine </i><br>
-\[[arxiv]()\]
-\[[link]()\]
+\[[arxiv](https://arxiv.org/abs/2601.04202)\]
+\[[pdf](https://arxiv.org/pdf/2601.04202)\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleTables)\]
 
 * <b> [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)</b> 

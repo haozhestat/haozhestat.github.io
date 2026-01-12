@@ -6,6 +6,7 @@ author_profile: true
 * **[为先奖](https://1drv.ms/b/c/f053ed24f7f64c87/IQCmS8N2-ZFtSbfy7WpACEFuAbrX-JoKHWz8lWQp9zaXSk0?e=vbFIZi)（华为ICT研发领域最高荣誉）**, Huawei, 2025.
 * **[Innovation & Techonological Breakthrough Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCEgi-xoHEQRI33nkmthpMEAfwesgP7Qov2Y9Z_Rynm1_o?e=hobgs3)**, Huawei, 2025.
 * **[Innovation & Techonological Breakthrough Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCHNGc3twTqTLo0_fuj0K25Afvho2WyflJcmGzXXg2R52c?e=EFXklj)**, Huawei, 2024.
+* **[Huaweier's Story of the Year](https://mp.weixin.qq.com/s/-dfrKbuwF-W7ZG8JYOFnMQ)**, Huawei, 2024.
 * **[Thought Firestone Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCpl-S4JHiGS5U5ShkeA5s3AeX8XIf4zu9lkH9eUErCyms?e=y4udRQ)**, Huawei, 2024.
 * **[Future Star](https://1drv.ms/b/c/f053ed24f7f64c87/IQBoB-rWVlNXSo_pTq_-NEjNAZgM-ASth1Qj2LHxo1BVWho?e=tl2wZp)**, Huawei Shanghai Research Center, 2023.
 * **[Outstanding Engineer](https://1drv.ms/b/c/f053ed24f7f64c87/IQAfRASr8cwGT77UFPfMfd-CAVn7vO-bHZeVj4aUOoP4QDk?e=T8y6RW)**, Huawei Shanghai Research Center, 2023.

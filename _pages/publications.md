@@ -4,6 +4,9 @@ title: "Selected Publications"
 author_profile: true
 ---
 
+* <b> [Domain-Specific Reasoning Language Models for Root Cause Analysis in Mobile Networks]()</b> 
+<br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Yibin Kang, <b>Haozhe Zhang</b>, Merouane Debbah, Fadhel Ayed. <br>
+Under Review for <i> IEEE Transactions on Networking </i><br>
 
 * <b> [TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation]()</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>

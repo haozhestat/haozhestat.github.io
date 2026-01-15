@@ -19,13 +19,14 @@ redirect_from:
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 -->
+* I joined ByteDance as an AI engineer on January 2026.
 * I worked at Huawei as a tech lead and an AI researcher for 4 years on the post-training, agentic RL and application of domain-specific LLM.
 * I was a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/) from 2019 to 2022, focusing on the research and productionization of AutoML and privacy-preserving AI.
 * I received Ph.D. in Statistics at [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018), Liberty Mutual (2017) and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013) as research intern.
 * My research interests lie on the automation, interpretation, inference, infrastructure and application for AI & machine learning.
 
 # News
-* January 5, 2026. I joined ByteDance.
+* January 5, 2026. Our paper about [LLM Benchmark on Telecom Table Interpretation](https://arxiv.org/pdf/2601.04202) is avaiable in arxiv.
 * October 20, 2025. Our team released [GSMA Open-Telco LLM Benchmarks 2.0](https://huggingface.co/blog/otellm/gsma-benchmarks-02), the first comprehensive benchmark to evaluate large language models on real-world telecom tasks—from intent-to-configuration and troubleshooting to standards interpretation and network troubleshooting.
 * October 13, 2025. Our paper about [Momentum-filtered Optimizer for Mitigating LLM Forgetting during SFT](https://openreview.net/pdf?id=T1qXIDn9my) has been accepted by TMLR.
 * August 31, 2025. I attended the 2025 ICPC World Finals in Baku, Azerbaijan as an expert representative of Huawei.

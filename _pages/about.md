@@ -33,7 +33,7 @@ redirect_from:
 * July 30, 2025. We recently released [Telelogs](https://huggingface.co/datasets/netop/TeleLogs), a benchmark for Large Language Models in telecom logs analysis, by collaborating with the [Netop Team](https://huggingface.co/netop) in Huawei Paris Research Center. The paper  "[Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)" that introduces this dataset and our research work on 5G network RCA is available in arxiv.
 * September 20, 2024. Our paper about LLM hallucination detection has been accepted by EMNLP 2024 Main.
 * February 5, 2024. It is my great honor to be on the [Huaweier's Story of the Year](https://mp.weixin.qq.com/s/-dfrKbuwF-W7ZG8JYOFnMQ).
-* October 30, 2023. Our AI product "*[AskO3](https://asko3.o3community.huawei.com/asko3)*" was released together with the [O3 Community](https://www.huawei.com/en/news/2023/9/o3community-release) at Huawei Connect 2023 in Shanghai, China.
+* October 30, 2023. Our AI product "*[AskO3](https://cn.o3community.huawei.com/cn/zh/search/1788815134044577794?catalogue=ALL&anchor=askasko3~deepresearch&lang=zh_CN)*" was released together with the [O3 Community](https://www.huawei.com/en/news/2023/9/o3community-release) at Huawei Connect 2023 in Shanghai, China.
 * October 8, 2023. Two papers have been accepted to the Findings of EMNLP 2023.
 * February 14, 2022. Selected for the Top Minds Program (天才少年) of Huawei.
 * June 1, 2021. Our Python library *[shrike](https://github.com/azure/shrike)* that aids compliant experiments in the Azure Machine Learning Platform was released in github.

@@ -19,7 +19,7 @@ redirect_from:
 [[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
 * I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
 -->
-* I joined ByteDance as an AI engineer on January 2026.
+* I joined ByteDance as a tech lead and an AI engineer on January 2026.
 * I worked at Huawei as a tech lead and an AI researcher for 4 years on the post-training, agentic RL and application of domain-specific LLM.
 * I was a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/) from 2019 to 2022, focusing on the research and productionization of AutoML and privacy-preserving AI.
 * I received Ph.D. in Statistics at [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018), Liberty Mutual (2017) and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013) as research intern.

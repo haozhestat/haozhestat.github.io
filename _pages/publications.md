@@ -14,7 +14,7 @@ Under Review for <i> IEEE Transactions on Networking </i><br>
 
 * <b> [TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation]()</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
-<i> 	arXiv:2601.04202 </i>
+<i> 	arXiv:2601.04202 </i><br>
 \[[arxiv](https://arxiv.org/abs/2601.04202)\]
 \[[pdf](https://arxiv.org/pdf/2601.04202)\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleTables)\]

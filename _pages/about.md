@@ -8,22 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
--->
-<!--
-* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Dan Nettleton](https://dnett.github.io) and 
-[Prof. Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home).
-[[Curriculum Vitae]](http://haozhestat.github.io/files/CV_Haozhe.pdf) 
-* I received my Bachelor’s Degree in Statistics from [School of the Gifted Young (Honors Program)](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/).  
--->
-* I joined ByteDance as a tech lead and an AI engineer on January 2026.
-* I worked at Huawei as a tech lead and an AI researcher for 4 years on the post-training, agentic RL and application of domain-specific LLM.
-* I was a data & applied scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/) from 2019 to 2022, focusing on the research and productionization of AutoML and privacy-preserving AI.
-* I received Ph.D. in Statistics at [Iowa State University](https://www.iastate.edu/) in 2019 and B.S. from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I was an exchange student in Department of Mathematics at [National Taiwan University](https://www.ntu.edu.tw/index.html) in fall 2012. I worked at [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC) (2018), Liberty Mutual (2017) and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells) (2013) as research intern.
-* My research interests lie on the automation, interpretation, inference, infrastructure and application for AI & machine learning.
+* I am a tech lead and AI engineer at ByteDance, focusing on building practical AI systems and products since January 2026.
+* Before joining ByteDance, I spent four years at Huawei as a tech lead and AI researcher, where I led projects on post-training, agentic reinforcement learning, and domain-specific large language models for telecom.
+* From 2019 to 2022, I was a Data & Applied Scientist in [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)  at [Microsoft Cloud & AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/), working on end-to-end solutions for AutoML and privacy-preserving AI, from algorithm design to large-scale deployment.
+* I hold a Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) and a B.S. from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) at the [University of Science and Technology of China](http://en.ustc.edu.cn/), with early experience across [eBay](http://haozhestat.github.io/files/IMG_7869.HEIC), Liberty Mutual, and [OIST](https://www.oist.jp/news-center/news/2015/4/6/mysterious-desert-fairy-circles-share-pattern-skin-cells).
+* My work sits at the intersection of research and engineering, with a focus on making AI systems more automated, reliable, and interpretable in production environments.
 
 # News
 * January 5, 2026. Our paper about [LLM Benchmark on Telecom Table Interpretation](https://arxiv.org/pdf/2601.04202) is avaiable in arxiv.

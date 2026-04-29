@@ -15,7 +15,7 @@ redirect_from:
 * My work sits at the intersection of research and engineering, with a focus on making AI systems more automated, reliable, and interpretable in production environments.
 
 # News
-* April 28, 2026. I received the "Excellent New Employee" Spot Bonus from ByteDance.
+* April 28, 2026. I received the Tiktok Eng Spot Bonus “Excellent New Employee” from ByteDance.
 * January 5, 2026. Our paper about [LLM Benchmark on Telecom Table Interpretation](https://arxiv.org/pdf/2601.04202) is avaiable in arxiv.
 * October 20, 2025. Our team released [GSMA Open-Telco LLM Benchmarks 2.0](https://huggingface.co/blog/otellm/gsma-benchmarks-02), the first comprehensive benchmark to evaluate large language models on real-world telecom tasks—from intent-to-configuration and troubleshooting to standards interpretation and network troubleshooting.
 * October 13, 2025. Our paper about [Momentum-filtered Optimizer for Mitigating LLM Forgetting during SFT](https://openreview.net/pdf?id=T1qXIDn9my) has been accepted by TMLR.

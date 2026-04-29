@@ -3,7 +3,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* Tiktok Eng Spot Bonus "**Excellent New Employee** | 优秀新人", ByteDance.
+* Tiktok Eng Spot Bonus "**Excellent New Employee**", ByteDance.
 * **[为先奖](https://1drv.ms/b/c/f053ed24f7f64c87/IQCmS8N2-ZFtSbfy7WpACEFuAbrX-JoKHWz8lWQp9zaXSk0?e=vbFIZi)（华为ICT研发领域最高荣誉）**, Huawei, 2025.
 * **[Innovation & Techonological Breakthrough Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCEgi-xoHEQRI33nkmthpMEAfwesgP7Qov2Y9Z_Rynm1_o?e=hobgs3)**, Huawei, 2025.
 * **[Innovation & Techonological Breakthrough Award](https://1drv.ms/b/c/f053ed24f7f64c87/IQCHNGc3twTqTLo0_fuj0K25Afvho2WyflJcmGzXXg2R52c?e=EFXklj)**, Huawei, 2024.

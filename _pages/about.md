@@ -15,8 +15,8 @@ redirect_from:
 * My work sits at the intersection of research and engineering, with a focus on making AI systems more automated, reliable, and interpretable in production environments.
 
 # News
+* August 22, 2026. Our paper on [Evaluating LLM Understanding of Tables in Technical Standards](https://arxiv.org/pdf/2601.04202) has been accepted by EMNLP 2026 Industry Track.
 * April 28, 2026. I received the TikTok Eng Spot Bonus "Excellent New Employee" from ByteDance.
-* January 5, 2026. Our paper on [LLM Benchmark on Telecom Table Interpretation](https://arxiv.org/pdf/2601.04202) is available on arXiv.
 * October 20, 2025. Our team released [GSMA Open-Telco LLM Benchmarks 2.0](https://huggingface.co/blog/otellm/gsma-benchmarks-02)—the first comprehensive benchmark for evaluating large language models on real-world telecom tasks, from intent-to-configuration and troubleshooting to standards interpretation and network diagnostics.
 * October 13, 2025. Our paper on [Momentum-filtered Optimizer for Mitigating LLM Forgetting during SFT](https://openreview.net/pdf?id=T1qXIDn9my) has been accepted by TMLR.
 * August 31, 2025. I attended the 2025 ICPC World Finals in Baku, Azerbaijan, as an expert representative of Huawei.

@@ -10,7 +10,7 @@ Under Review<br>
 
 * <b> [TeleTables: A Benchmark for Evaluating LLM Understanding of Tables in Technical Standards]()</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
-<i> EMNLP 2026 </i><br>
+<i> EMNLP 2026 Industry Track</i><br>
 \[[arxiv](https://arxiv.org/abs/2601.04202)\]
 \[[pdf](https://arxiv.org/pdf/2601.04202)\]
 \[[dataset](https://huggingface.co/datasets/netop/TeleTables)\]

@@ -15,6 +15,7 @@ redirect_from:
 * My work sits at the intersection of research and engineering, with a focus on making AI systems more automated, reliable, and interpretable in production environments.
 
 # News
+* September 8, 2026. Our paper on [Hysteretic Policy Optimization for Stable and Efficient Training under Sparse-Reward Regime]() has been accepted by AACL-IJCNLP 2026 Findings.
 * August 22, 2026. Our paper on [Evaluating LLM Understanding of Tables in Technical Standards](https://arxiv.org/pdf/2601.04202) has been accepted by EMNLP 2026 Industry Track.
 * April 28, 2026. I received the TikTok Eng Spot Bonus "Excellent New Employee" from ByteDance.
 * October 20, 2025. Our team released [GSMA Open-Telco LLM Benchmarks 2.0](https://huggingface.co/blog/otellm/gsma-benchmarks-02)—the first comprehensive benchmark for evaluating large language models on real-world telecom tasks, from intent-to-configuration and troubleshooting to standards interpretation and network diagnostics.

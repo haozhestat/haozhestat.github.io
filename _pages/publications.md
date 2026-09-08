@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 * <b> [HPO: Hysteretic Policy Optimization for Stable and Efficient Training under Sparse-Reward Regime]()</b> 
-<br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
-Under Review<br>
+<br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>.<br>
+<i> AACL-IJCNLP 2026 Findings</i><br>
 
 * <b> [TeleTables: A Benchmark for Evaluating LLM Understanding of Tables in Technical Standards]()</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>

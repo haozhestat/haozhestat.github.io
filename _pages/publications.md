@@ -4,11 +4,11 @@ title: "Selected Publications"
 author_profile: true
 ---
 
-* <b> [HPO: Hysteretic Policy Optimization for Stable and Efficient Training under Sparse-Reward Regime]()</b> 
+* <b> [HPO: Hysteretic Policy Optimization for Stable and Efficient Training under Sparse-Reward Regime](https://arxiv.org/pdf/2605.30201)</b> 
 <br>Mohamed Sana, Nicola Piovesan, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>.<br>
 <i> AACL-IJCNLP 2026 Findings</i><br>
 
-* <b> [TeleTables: A Benchmark for Evaluating LLM Understanding of Tables in Technical Standards]()</b> 
+* <b> [TeleTables: A Benchmark for Evaluating LLM Understanding of Tables in Technical Standards](https://arxiv.org/abs/2601.04202)</b> 
 <br>Anas Ezzakri, Nicola Piovesan, Mohamed Sana, Antonio De Domenico, Fadhel Ayed, <b>Haozhe Zhang</b>. <br>
 <i> EMNLP 2026 Industry Track</i><br>
 \[[arxiv](https://arxiv.org/abs/2601.04202)\]
